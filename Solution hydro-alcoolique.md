@@ -1,0 +1,1 @@
+Effectuer l'antisepsie des mains.

@@ -1,0 +1,3 @@
+- **[[Tératogène]] : à éviter si femme en âge de procréer ‐ 
+- Hépatite cytolytique ‐ 
+- Autres : tremblement, thrombopénie, prise de poids, hyperammoniémie, pancréatite, ovarite

@@ -1,0 +1,14 @@
+Au concours de résidanat, le **score de Parker** est abordé dans les dossiers cliniques de traumatologie et d'orthopédie, particulièrement lors de l'évaluation d'une **fracture de l'extrémité supérieure du fémur (fracture du col fémoral)** chez le sujet âgé.
+
+D'après les annales (notamment un cas clinique de 2023), l'objectif de ce score est d'évaluer le niveau d'autonomie et les capacités de déplacement du patient avant l'accident. Dans le dossier type rapporté, les examinateurs demandent de calculer le score d'une patiente de 70 ans à partir des données suivantes : _« Cette patiente marche seule à domicile, fait ses courses à l'aide d'une canne »_.
+
+D'après la correction de cette année-là, le score de Parker exact à cocher pour cette patiente était de **8** (réponse E), bien que les correcteurs fassent la remarque que les trois paramètres complets nécessaires au calcul n'avaient pas été explicitement détaillés dans l'énoncé (nécessitant une déduction).
+
+**Note d'expert (Information hors sources pour optimiser votre révision) :** _Les détails exacts du calcul du score ne sont pas explicités dans les sources fournies, il est donc recommandé de vérifier ces critères dans vos supports de cours habituels._ Pour répondre aux QCM, il faut retenir que le score de Parker est noté sur **9 points**. Il évalue la mobilité du patient dans **3 situations distinctes** (à l'intérieur du domicile, à l'extérieur du domicile, et pour aller faire les courses). Chaque item est coté de 0 à 3 :
+
+- **0 point :** déplacement impossible.
+- **1 point :** déplacement avec l'aide d'une tierce personne.
+- **2 points :** déplacement avec une aide matérielle (ex : une canne).
+- **3 points :** déplacement de façon totalement indépendante (sans aide). _(Dans le cas clinique de 2023 : marche autonome à domicile = 3 points, courses avec canne = 2 points, ce qui implique par déduction que la marche à l'extérieur était considérée autonome = 3 points, pour aboutir au score de 8)._
+
+**Le Réflexe Stratégique au concours :** Calculer le score de Parker n'est jamais anodin dans un dossier de fracture du col fémoral ; c'est un paramètre qui guide directement le **choix thérapeutique**. En effet, l'état d'autonomie préexistant oriente le chirurgien entre un traitement conservateur (ostéosynthèse), la mise en place d'une prothèse intermédiaire ou d'une prothèse totale de hanche. L'objectif principal de ce choix étant d'autoriser une reprise de la marche la plus précoce possible pour éviter les complications sévères liées au décubitus (thrombose veineuse profonde, escarres, décompensation des tares) chez la personne âgée.

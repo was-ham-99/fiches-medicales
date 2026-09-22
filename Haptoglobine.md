@@ -1,0 +1,1 @@
+est une protéine produite par le [[Foie]] qui sert a capturer l'[[hémoglobine]] libérée directement dans le sang

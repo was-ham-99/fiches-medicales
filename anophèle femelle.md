@@ -1,0 +1,1 @@
+Anophèle transmet le paludisme, la filariose lymphatique, et l'o'nyong-nyong

@@ -1,0 +1,4 @@
+- **Seuil hémorragique :** Chez l'adulte, une perte sanguine supérieure à **20 % du volume sanguin total** est le seuil à partir duquel la pression artérielle chute.
+- **Mécanismes compensateurs :** On observe une **augmentation des RVP**, une rétention de sodium et une **augmentation de la DAVO2**.
+- **Vasoconstriction sélective :** Elle touche la peau, les muscles et les viscères, mais **épargne le cerveau et le cœur** pour maintenir la perfusion des **organes vitaux**.
+- **Signes biologiques :** Une **[[Acidose lactique]]** et une chute de la **pression veineuse centrale (PVC < 2 cm H2O)** sont des critères de gravité et de diagnostic.

@@ -1,0 +1,1 @@
+Glandes contournées formées de cellules à mucus

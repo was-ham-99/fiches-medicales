@@ -1,0 +1,1 @@
+- le tremblement cérébelleux est un tremblement **d'action**. Il apparaît ou s'aggrave lors d'un mouvement volontaire, et devient maximal lorsqu'on approche de la cible, d'où le terme de tremblement **d'intention**. 

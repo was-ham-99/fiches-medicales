@@ -1,0 +1,2 @@
+- L'acétyl-CoA est impliqué dans la synthèse des [[Acides gras]], du [[cholestérol]], la cétogenèse, le cycle de Krebs. 
+La **voie des pentoses phosphates** concerne le [[glucose-6-phosphate]], **pas** l'acétyl-CoA

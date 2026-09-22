@@ -1,0 +1,3 @@
+Si le TP est bas mais se corrige après une injection de [[vitamine K]] ([[test de Koller]] positif), cela confirme que le foie fonctionne bien mais que l'absorption de la Vitamine K est bloquée par l'absence de bile dans l'intestin.
+
+TP **ne s'était pas corrigé** (test de Koller négatif), cela aurait signé une incapacité du foie à synthétiser les protéines, témoignant d'une [[insuffisance hépatique]] terminale ou d'une [[Cirrhose]] avancée.

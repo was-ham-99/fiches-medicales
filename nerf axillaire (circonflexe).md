@@ -1,0 +1,1 @@
+(circonflexe) innerve le muscle deltoïde et donne une branche sensitive pour la peau de la face externe de l'épaule (région du "moignon de l'épaule").

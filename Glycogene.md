@@ -1,0 +1,1 @@
+- est stocke dans le foie et les muscles

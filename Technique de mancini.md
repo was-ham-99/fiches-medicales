@@ -1,0 +1,1 @@
+- repose sur la diffusion radiale d'un antigene dans un gel contenant l'anticorps

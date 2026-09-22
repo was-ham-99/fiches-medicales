@@ -1,0 +1,1 @@
+Il s'agit d'une affection fibro-inflammatoire extrêmement rare où la glande devient d'une consistance "ligneuse" (très dure) à la palpation et subit souvent une **atrophie ou une rétraction** avec envahissement des structures adjacentes, plutôt qu'une augmentation modérée et diffuse standard. 

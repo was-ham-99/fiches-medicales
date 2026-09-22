@@ -1,0 +1,1 @@
+La voie spino-thalamique (ou antéro-latérale) gère la **sensibilité thermo-algique** (douleur et température) ainsi que le **tact grossier** (protopathique).

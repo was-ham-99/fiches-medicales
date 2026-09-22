@@ -1,0 +1,1 @@
+Absence congénitale d'utérus et des 2/3 supérieurs du vagin.

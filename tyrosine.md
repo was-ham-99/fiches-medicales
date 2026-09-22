@@ -1,0 +1,2 @@
+- [[acides aminés aromatiques]] =  sont **([[phénylalanine]], tyrosine, [[tryptophane]])**
+    -  méthionine  est un Acides aminés soufrés 

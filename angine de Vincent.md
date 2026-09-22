@@ -1,0 +1,2 @@
+**angine de Vincent** (ou angine ulcéro-nécrotique) est due à l'association d'un bacille (Fusobacterium) et d'un spirochète (Borrelia). Elle est typiquement **unilatérale**, avec une ulcération recouverte d'une fausse membrane grisâtre (B - vrai). Les autres angines ([[Diphtérie]]que, streptococcique, MNI, herpangine) sont généralement bilatérales.
+    

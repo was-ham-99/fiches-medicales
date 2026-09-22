@@ -1,0 +1,3 @@
+- est commun entre les lipides les glucides et les acides amine
+- Le cycle de Krebs n'est pas uniquement catabolique (dégradation). Il est **amphabolique**
+- le pyruvate issu de la glycolyse cytoplasmique doit être converti en [[Acétyl-CoA]] dans la mitochondrie par le complexe de la **[[pyruvate déshydrogénase (PDH)]]** :

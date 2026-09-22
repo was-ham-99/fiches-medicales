@@ -1,0 +1,1 @@
+- la confusion mentale est un trouble **aigu** ou subaigu, réversible, traduisant une souffrance cérébrale **aiguë**, pas chronique. La démence est chronique.

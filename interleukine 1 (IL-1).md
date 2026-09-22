@@ -1,0 +1,5 @@
+- **produite par les monocytes / macrophages**.** (VRAI). Les cellules phagocytaires mononucléées sont les principales productrices d'IL-1.
+- **Est une cytokine pro-inflammatoire.** (VRAI). Avec le TNF, c'est une cytokine majeure de l'inflammation (responsable de la fièvre, activation endothéliale...).
+- **Participe à l'activation précoce des [[Lymphocytes T]].** 
+- **Activation des cellules NK.**     
+- **E. Ne possède pas d'action sur les lymphocytes B

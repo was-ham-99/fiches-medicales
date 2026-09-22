@@ -1,0 +1,1 @@
+Cellules principales (qui sécrètent le [[pepsinogène]]).

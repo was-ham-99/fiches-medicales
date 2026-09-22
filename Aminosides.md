@@ -1,0 +1,3 @@
+- **[[Bactéricides]]**
+- Oto et néphrotoxique
+- molécules **volumineuses (gros poids moléculaire)** qui ne peuvent pas traverser cette barrièr

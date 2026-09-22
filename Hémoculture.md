@@ -1,0 +1,3 @@
+- examen de certitude systématiquement réalise avant toute antiobiotherapie devant une [[Infection néonatale bactérienne]]
+- on realise une henoculture devant toute tableau de [[Sepsis]]
+- 

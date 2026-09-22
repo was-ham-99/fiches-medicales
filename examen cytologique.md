@@ -1,0 +1,2 @@
+ - Permet le dépistage des lésions précancéreuses du col utérin
+ - Cytologie n'est pas toujours de certitude, elle s'applique aux liquides, et la fixation cytologique n'est pas au formol (qui est pour l'histologie).

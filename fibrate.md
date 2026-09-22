@@ -1,0 +1,1 @@
+Seul le **fénofibrate** (ou éventuellement le bézafibrate) peut être associé à une statine. Le **gemfibrozil est formellement contre-indiqué** en association avec une statine car il bloque son élimination et multiplie massivement le risque de destruction musculaire [[Rhabdomyolyse]]

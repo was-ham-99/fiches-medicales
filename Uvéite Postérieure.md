@@ -1,0 +1,3 @@
+- TOXOPLASMOSE 
+- Clinique : Asymptomatique, BAV si localisation maculaire
+- TRT : antiparasitaire

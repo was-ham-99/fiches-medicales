@@ -1,0 +1,1 @@
+La néphrose lipidique (ou [[Syndrome néphrotique]] idiopathique) est caractérisée par une protéinurie abondante et **sélective** (principalement de l'albumine). La non-sélectivité est un signe de lésions glomérulaires plus sévères (glomérulonéphrites). Les autres signes (A, B, C, D) sont classiques

@@ -1,0 +1,2 @@
+- **[[Eczéma de contact]] :** Hypersensibilité retardée à médiation cellulaire. La "gale du ciment" est une dermatose fréquente chez les maçons (sensibilisation au nickel/chrome).
+- **Critères d'origine :** Rythmicité des poussées avec le travail et **régression durant les congés**.

@@ -1,0 +1,1 @@
+VOIE ORALE • Sitagliptine cp 25,50 et 100 mg

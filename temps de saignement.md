@@ -1,0 +1,1 @@
+temps de saignement explore l'[[Hémostase primaire]] (plaquettes et vaisseaux). .

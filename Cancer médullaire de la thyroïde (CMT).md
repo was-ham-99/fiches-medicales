@@ -1,0 +1,3 @@
+- [[Thyroglobuline (Tg)]] Il est utile dans la **surveillance** des cancers thyroïdiens différenciés
+    - **N’est pas** un paramètre **diagnostic** de cancer thyroïdien 
+    - [[Thyrocalcitonine (TCT)]] Marqueur sensible et spécifique du **Cancer médullaire de la thyroïde (CMT)**

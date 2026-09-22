@@ -1,0 +1,1 @@
+C'est une réaction systémique aiguë causée par la destruction massive et rapide des spirochètes (leptospires) par l'antibiotique, libérant des endotoxines. Elle se manifeste par une poussée de fièvre, une hypotension et une exacerbation transitoire des signes cliniques, nécessitant une surveillance étroite au début du traitement.

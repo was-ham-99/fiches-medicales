@@ -1,0 +1,1 @@
+- Le test dynamique de référence pour confirmer le diagnostic est le **test au Synacthène® (ACTH de synthèse)**

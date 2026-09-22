@@ -1,0 +1,1 @@
+Ces cellules lymphoïdes activées possèdent un grand nucléole central unique et un cytoplasme abondant. Elles peuvent simuler la morphologie des cellules de Hodgkin et de Reed-Sternberg, notamment dans les réactions lymphoïdes hyperplasiques (comme la mononucléose infectieuse) ou les lymphomes non hodgkiniens de haut grade.

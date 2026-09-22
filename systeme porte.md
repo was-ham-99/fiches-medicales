@@ -1,0 +1,1 @@
+draine la [[rate]] et [[Pancréas]]

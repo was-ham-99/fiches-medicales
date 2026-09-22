@@ -1,0 +1,1 @@
+- **Ovaire** est le seul organe véritablement **intrapéritonéal** . Contrairement aux autres [[Organes intrapéritonéaux]], il n'est **pas recouvert de [[Péritoine]]**. Le péritoine est le tissu qui tapisse l'abdomen.

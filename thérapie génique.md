@@ -1,0 +1,3 @@
+ La vaccination à ARNm contre la COVID-19 est une **immunothérapie**, pas une thérapie génique. Elle vise à faire produire un antigène (la protéine Spike) pour déclencher une réponse immunitaire. Elle ne modifie pas le génome de la cellule hôte de façon durable (l'ARNm est transitoire) et ne corrige pas un gène défectueux.
+        
+- **A, B, C, E : Vrais.** Ce sont des définitions exactes des différentes approches de thérapie génique (in vivo/ex vivo), du rôle des vecteurs, et de son application aux cellules somatiques (et non germinales pour des raisons éthiques).

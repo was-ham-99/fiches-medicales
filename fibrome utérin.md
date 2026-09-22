@@ -1,0 +1,1 @@
+La complication la plus fréquente d'un **fibrome utérin** pendant la grossesse est : **Nécrobiose aseptique**.

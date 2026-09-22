@@ -1,0 +1,1 @@
+ cholestéatome n'est pas une tumeur (bien qu'il soit appelé "tumeur perlée"). C'est une **formation kystique** constituée d'un amas de **kératine** provenant d'une **migration de l'épithélium pavimenteux stratifié kératinisé du conduit auditif externe ou de la membrane tympanique vers l'oreille moyenne**. C'est donc bien la "**présence de peau dans l'oreille moyenne**".

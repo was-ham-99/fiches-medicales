@@ -1,0 +1,1 @@
+Bien qu'il touche la bouche et les extrémités, le [syndrome pieds-mains-bouche](https://ccnmi.ca/debrief/la-maladie-mains-pieds-bouche/) se caractérise par des **lésions vésiculeuses ou papuleuses** (petites bulles/aphtes) très ciblées et non par un rash morbilliforme généralisé. Il ne provoque pas de conjonctivite bilatérale ni de syndrome inflammatoire d'une telle violence

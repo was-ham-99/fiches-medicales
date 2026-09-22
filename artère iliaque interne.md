@@ -1,0 +1,2 @@
+- **Naissance :** Elle naît de la bifurcation de l'**artère iliaque commune**, généralement au niveau du disque lombo-sacral (L₅-S₁), juste en avant de l'articulation sacro-iliaque
+- **artère iliaque interne** (anciennement appelée _artère hypogastrique_) ==est l'artère principale de la **vascularisation des organes du [[pelvis]]** (petit bassin), du périnée et des parois de la région fessière==

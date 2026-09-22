@@ -1,0 +1,2 @@
+-  La **Gentamycine** est un aminoside. Elle n'est pas active sur le pneumocoque (la bactérie la plus fréquente des **PFA**) en monothérapie. Elle est surtout utilisée en association pour son effet synergique, mais jamais seule pour ce type d'infection. 
+- L'**erythromycine** (A) (macrolide) est une alternative en cas d'allergie aux β-lactamines. Les autres (Bactrim, Bipénicilline, Ampicilline) sont actives sur le pneumocoque.

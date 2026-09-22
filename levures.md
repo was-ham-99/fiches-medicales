@@ -1,0 +1,1 @@
+Les levures sont des champignons unicellulaires, non filamenteux (contrairement aux moisissures).

@@ -1,0 +1,1 @@
+ayon **horizontal** (parallèle au sol), pas d'avant en arrière.

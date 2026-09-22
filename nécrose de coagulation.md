@@ -1,0 +1,5 @@
+ #Anapathologie 
+ 
+ La nécrose de coagulation est la forme de nécrose cellulaire survenant dans un tissu solide (sauf le cerveau) suite à une **ischémie** (arrêt brutal de la vascularisation artérielle) (A - vrai). Macroscopiquement, le territoire nécrosé est bien limité, blanchâtre/opaque (C - vrai). Microscopiquement, l'**architecture tissulaire est préservée** (les cellules sont mortes mais leur forme et les contours du tissu restent visibles) (D - vrai). C'est typiquement l'aspect d'un **infarctus blanc** (E - vrai) (cœur, rein, rate). L'oblitération d'une **veine** entraîne une congestion puis une nécrose hémorragique (infarctus rouge), pas une nécrose de coagulation ischémique typique. L'oblittération artérielle est la cause classique.
+    
+- **Mots-clés / Pièges :** **Nécrose de coagulation = ischémie artérielle** ; **Nécrose de liquéfaction = cerveau / infection** ; **Nécrose hémorragique = obstacle veineux**.

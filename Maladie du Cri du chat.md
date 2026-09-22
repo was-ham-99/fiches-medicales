@@ -1,0 +1,6 @@
+- cri caractÈristique •
+- microcÈphalie • 
+- hypertÈlorisme, Epicanthus • -
+- hypotonie, retard de croissance • -
+- retard mental sÈvËre • - 
+- 5p- 

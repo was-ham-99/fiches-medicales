@@ -1,0 +1,2 @@
+- Association (Hyperparathyroïdie + Phéochromocytome) = ==**Néoplasie Endocrinienne Multiple de type 2A (NEM 2A)**, aussi appelée syndrome de Sipple==.
+- C'est une pathologie génétique à transmission **autosomique dominante** liée à une mutation du proto-oncogène **RET**.

@@ -1,0 +1,3 @@
+Un polype pédiculé de 20 mm, même s'il est suspect (rouge framboise peut évoquer un aspect villeux), doit être retiré lors de la coloscopie diagnostique. ==La **polypectomie à l'anse diathermique** (B) est le geste standard pour un polype pédiculé de cette taille==. La biopsie seule (A) est insuffisante et expose à un risque de saignement ou de résection incomplète ultérieure. La chirurgie d'emblée (C, D) n'est pas indiquée sans preuve histologique de malignité.
+
+- Tout polype vu doit être **réséqué** si possible.

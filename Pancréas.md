@@ -1,0 +1,1 @@
+L'[[artère splénique]] chemine sur le  **pancréas**

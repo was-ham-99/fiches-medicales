@@ -1,0 +1,1 @@
+ Délimite le lobe azygos, qui est la région apico-interne du lobe supérieur droit

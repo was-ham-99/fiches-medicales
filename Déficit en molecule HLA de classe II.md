@@ -1,0 +1,5 @@
+- Tres repandu en **{{::maghreb::}}** **Surtout** dans le bassin méditerranéen.
+- Transmission **{{::autosomique recessif::}}**
+- Le plus souvent une **{{::hypogammaglobulinemie::}}** 
+    - Il existe, habituellement, une hypogammaglobulinémie affectant principalement les IgG2 et IgA, mais les taux des Ig peuvent être normaux
+- vu que c'est un deficit du **HLA de classe II** donc on aura une **lymphopenie CD4+** avec LT normale

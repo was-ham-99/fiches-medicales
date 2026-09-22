@@ -1,0 +1,1 @@
+est souvent associée à une gastrite atrophique avec diminution des cellules pariétales, donc baisse du [[facteur intrinsèque]] , ce qui entraîne une malabsorption de la B12.

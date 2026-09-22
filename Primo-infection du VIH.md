@@ -1,0 +1,2 @@
+- Syndrome grippale 
+- pendant la phase aigu les anticorps anti VIH sont absents/ faible il sont retrouve **3 a 12 semaines** apres cette primo infection 

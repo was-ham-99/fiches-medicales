@@ -1,0 +1,1 @@
+Une atteinte du cortex cérébral se traduit généralement par une hémiplégie **non proportionnelle** (prédominant sur la face et le membre supérieur, ou sur le membre inférieur selon le territoire artériel) et s'associe classiquement à des **signes corticaux** (aphasie, héminegligence, ou troubles sensitifs associés). 

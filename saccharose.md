@@ -1,0 +1,2 @@
+- disacharride iant le glucose au fructose
+- Le [[saccharose]] (sucre de table) n'est **pas** un sucre réducteur car ses deux groupes réactifs sont bloqués dans la liaison qui unit les deux molécules.

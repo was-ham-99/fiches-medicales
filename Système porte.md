@@ -1,0 +1,1 @@
+Le système porte hépatique (veine porte) est un système porte **veineux**. Il est dit **fonctionnel** car il transporte des substances absorbées au niveau du tube digestif vers le foie pour y être métabolisées, avant qu'elles ne rejoignent la circulation générale.

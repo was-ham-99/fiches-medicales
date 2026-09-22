@@ -1,0 +1,1 @@
+- Les [[Lipides]] dans le duodénum stimulent la sécrétion de **cholécystokinine (CCK)** qui **provoque la contraction vésiculaire et ralentit la vidange gastrique (ralentissement). Ils stimulent aussi la sécrétion d'enzymes pancréatiques**.

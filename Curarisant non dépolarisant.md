@@ -1,0 +1,2 @@
+- [[Succinylcholine]] est un curare dépolarisant 
+- Tubocurarine  / Métocurine / Gallamine / Vécuronium sont non dépolarisants

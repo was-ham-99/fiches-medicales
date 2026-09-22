@@ -1,0 +1,1 @@
+La [[Transthyrétine (TTR)]]  est une protéine hépatique de transport. Des mutations de son gène (sur le **[[chromosome 18]]**) la rendent instable et favorisent son agrégation en fibrilles amyloïdes, qui se déposent dans les nerfs périphériques (polynévrite amyloïde familiale) et le cœur.

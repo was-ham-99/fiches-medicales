@@ -1,0 +1,6 @@
+- HSD aigu :
+    - L'aspect radiologique à la TDM cérébrale : lésion **hyperdense** en croissant de lune. 
+    - Il est à évacuer s'il est important avec effet de masse, il est rarement isolé, il est associé alors à une contusion cérébrale.
+- HSD Chronique :
+    - L'aspect radiologique à la TDM cérébrale : lésion **hypodense** en croissant de lune. 
+    - Évacuation chirurgicale sauf pour certains hématomes de petit volume sans effet compressif. Nécessité d'une réhydratation pour faciliter la réexpansion cérébrale.

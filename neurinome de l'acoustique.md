@@ -1,0 +1,2 @@
+
+-  Le neurinome de l'acoustique (schwannome vestibulaire) est une tumeur bénigne. Par définition, une tumeur bénigne ne métastase pas. Elle peut comprimer les structures adjacentes et entraîner surdité (C), vertiges (D), acouphènes (E).

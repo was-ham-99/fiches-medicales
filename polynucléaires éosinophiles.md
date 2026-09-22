@@ -1,0 +1,1 @@
+Ils font partie du stroma réactionnel (le fond cellulaire) fréquemment observé dans le lymphome de Hodgkin classique, mais leur petite taille et leurs noyaux bilobés typiques ne permettent pas de les confondre avec des cellules tumorales géantes.

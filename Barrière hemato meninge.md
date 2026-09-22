@@ -1,0 +1,1 @@
+- impermeable au molecule de **gros poids moleculaire

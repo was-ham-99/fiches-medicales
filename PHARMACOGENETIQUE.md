@@ -1,0 +1,1 @@
+La pharmacogÈnÈtique, une division de la pharmacologie, est l'Ètude de l'**influence du gÈnotype sur la variabilitÈ de la rÈponse a un traitement mÈdicamenteux**.

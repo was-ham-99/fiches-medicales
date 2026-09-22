@@ -1,0 +1,1 @@
+tumeur maligne, souvent **mi-solide mi-kystique**, avec **végétations**, **nécrose** et **hémorragie**. L’aspect décrit est typique.

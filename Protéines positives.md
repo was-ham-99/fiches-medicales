@@ -1,0 +1,2 @@
+- CRP / fibrinogene / [[Orosomucoide]] / [[Haptoglobine]]
+- 

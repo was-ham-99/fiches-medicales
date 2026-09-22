@@ -1,0 +1,1 @@
+Les images possibles incluent une synéchie (isthmique ou en doigt de gant) ou des trompes rigides moniliformes

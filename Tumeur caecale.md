@@ -1,0 +1,1 @@
+Un adénocarcinome ou un lymphome caecal pourrait mimer une masse de la fosse iliaque droite avec occlusion. Cependant, le scanner décrit ici une atteinte prédominante de la dernière anse iléale sur une grande longueur sans mentionner de processus tumoral bourgeonnant ou sténosant centré sur le cæcum. Le profil de la patiente (21 ans, diarrhée chronique) reste typique d'une MICI.

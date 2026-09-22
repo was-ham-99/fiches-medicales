@@ -1,0 +1,1 @@
+- La [[suppr Syndromes de la queue de cheval]] donne un syndrome de motoneurone périphérique (paraparésie flasque).

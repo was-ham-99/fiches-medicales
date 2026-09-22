@@ -1,0 +1,4 @@
+- Trouble anxieux caractérisé par la répétition des attaques de panique
+-  à 3%, prédominance féminine, âge de début typiquement entre 20 et 30 ans
+- Le plus souvent spontanée et imprévisible (sans facteur déclenchant) au début du trouble
+-  **Antidépresseur dans les formes sévères : ISRS en 1ère intention, pendant 6- 12 mois**

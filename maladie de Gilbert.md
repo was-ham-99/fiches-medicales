@@ -1,0 +1,2 @@
+maladie de Gilbert est due : 
+- un déficit partiel en glucuronyl-transférase, donnant une **hyperbilirubinémie non conjuguée**, avec **bilan hépatique normal** (transaminases normales, phosphatases alcalines normales).

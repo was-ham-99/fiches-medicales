@@ -1,0 +1,1 @@
+ L’hémiplégie est **controlatérale** à la lésion

@@ -1,0 +1,1 @@
+(médulloblastome, astrocytome) se manifeste par une **hypertension intracrânienne** (céphalées, vomissements, œdème papillaire) et un **syndrome cérébelleux** (ataxie, hypermétrie).

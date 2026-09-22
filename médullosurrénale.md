@@ -1,0 +1,1 @@
+les **[[crêtes neurales]]** donnent naissance aux ganglions sympathiques, à la **médullosurrénale**, aux mélanocytes et aux **cellules C** de la thyroïde.

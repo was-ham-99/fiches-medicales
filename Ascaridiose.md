@@ -1,0 +1,1 @@
+infestation par _Ascaris lumbricoides_ est une cause classique d'hyperéosinophilie. Lors du passage tissulaire pulmonaire de la larve, cette hyperéosinophilie s'accompagne d'opacités radiologiques labiles définissant le **syndrome de Lœffler**.

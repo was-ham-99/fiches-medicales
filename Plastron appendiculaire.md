@@ -1,0 +1,3 @@
+- **Mécanisme** : Le corps essaie de se défendre. Pour éviter que l'infection de l'appendice ne se propage à tout l'abdomen (péritonite), les organes voisins (les anses grêles et le grand épiploon) viennent coller et "agglutiner" l'appendice.
+- **Clinique** : À la palpation de la fosse iliaque droite, le médecin perçoit une **masse ferme, douloureuse, mal limitée**.
+- **Imagerie (Scanner)** : On observe un blindage inflammatoire, une masse compacte de tissus infiltrés qui emprisonne l'appendice, mais **sans collection de pus liquide individualisée**.

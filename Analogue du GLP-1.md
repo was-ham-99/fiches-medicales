@@ -1,0 +1,1 @@
+Chez un patient diabétique de type 2 avec **antécédent de maladie cardiovasculaire avérée** (infarctus) et HbA1c non contrôlée sous metformine, les recommandations actuelles privilégient l'adjonction d'un **[[Analogue du GLP-1]]** ou d'une **gliflozine (SGLT2)** pour leur **bénéfice cardiovasculaire** démontré.

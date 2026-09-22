@@ -1,0 +1,1 @@
+Fer degrader sera transporté par la **transferrine** vers la [[Moelle osseuse]] pour recréer de nouveaux globules rouges (érythropoïèse).

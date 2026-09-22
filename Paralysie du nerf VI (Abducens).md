@@ -1,0 +1,1 @@
+strabisme convergent avec diplopie horizontale témoigne d'une atteinte du nerf moteur oculaire externe (VI). C'est un signe classique d'**hypertension intracrânienne**.

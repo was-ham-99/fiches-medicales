@@ -1,0 +1,1 @@
+([[macrophages]] chargés de lipides)

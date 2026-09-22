@@ -1,0 +1,1 @@
+ Une ectopie amygdalienne, pouvant être associée à une syringomyélie.

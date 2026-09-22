@@ -1,0 +1,1 @@
+- La RBP Fixe le rÈtinol ([[Vitamine A]]). Se combine ‡ la prÈ albumine Le complexe assure la fixation et le transport plasmatique de la vitamine 

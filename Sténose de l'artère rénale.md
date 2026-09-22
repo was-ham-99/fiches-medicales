@@ -1,0 +1,1 @@
+À suspecter chez un patient dont la fonction rénale se dégrade brutalement après l'introduction d'un **IEC ou d'un ARA II**.

@@ -1,0 +1,1 @@
+**Mots-clés / Pièges :** **Prévalence = photo (instantané) = étude transversale**. **[[Incidence]] = film (suivi) = étude de cohorte**.

@@ -1,0 +1,5 @@
+- irrigue le **[[Côlon droit]]** (caecum, côlon ascendant) et la partie droite du [[côlon transverse]] et [[pancréas]] et [[duodénum]]
+- intestin grêle et le côlon droit sont ==principalement== irrigués par l'**Artère mésentérique supérieure (AMS)**.
+- vascularise tout le côlon ascendant
+- le drainage des [[veines gastriques]] est principlaement par la veine splenique
+- vascularise l’intestin grêle et le côlon droit, **pas l’estomac**.

@@ -1,0 +1,3 @@
+- Apoptose touche des **cellules isolées** contrairement au nécrose qui touche la totalité d'un épithélium
+- Régule le renouvellement des cellules à durée de vie courte.
+- Est secondaire aux lésions virales. (Perplexe)

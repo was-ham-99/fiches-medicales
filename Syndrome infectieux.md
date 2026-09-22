@@ -1,0 +1,1 @@
+ _Diagnostic différentiel :_ Le syndrome d'Hyper-IgE (Job) comporte un eczéma et des infections, mais pas de troubles plaquettaires ni de diarrhées sanglantes. [[Syndrome de Chediak-Higashi]] associe un albinisme partiel et des infections. L'ataxie-télangiectasie se manifeste plus tard par un **syndrome cérébelleux**.

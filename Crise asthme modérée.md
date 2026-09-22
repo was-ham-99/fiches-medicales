@@ -1,0 +1,1 @@
+FR 46 (>30 mais <50), **DEP à 60% (50-75%)**, anxieux, pas de cyanos

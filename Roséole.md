@@ -1,0 +1,1 @@
+La roséole infantile (exanthème subit) provoque une fièvre très élevée, mais celle-ci **chute brutalement** dès l'apparition du rash cutané. De plus, elle n'entraîne pas de conjonctivite, de chéilite, d'œdème dur des extrémités, ni de syndrome inflammatoire biologique aussi massif (CRP = 110 mg/l. 

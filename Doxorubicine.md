@@ -1,0 +1,1 @@
+==est un puissant médicament de chimiothérapie de la famille des anthracyclines==

@@ -1,0 +1,2 @@
+- **Maladies Inflammatoires Chroniques de l'Intestin (MICI)** : C'est une complication redoutée de la [rectocolite hémorragique (RCH)](https://www.larousse.fr/encyclopedie/medical/colectasie/12064) et, plus rarement, de la maladie de Croh
+- **Colites infectieuses graves** : Notamment les colites pseudomembraneuses dues à la bactérie _Clostridioides difficile_, souvent après une antibiothérapie

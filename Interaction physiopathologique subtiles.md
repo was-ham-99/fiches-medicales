@@ -1,0 +1,3 @@
+### [[Antivitamine K (AVK)]] [[Interactions médicamenteuses]]
+- La **Rifampicine** est un puissant **[Inducteurs enzymatiques](app://obsidian.md/Inducteurs%20enzymatiques)** du foie. Elle va donc accélérer la destruction des AVK et _diminuer_ leur effet.
+- À l'inverse, **l'[Aspirine (Acide acétylsalicylique)](app://obsidian.md/Aspirine%20\(Acide%20ac%C3%A9tylsalicylique\)), les [Sulfamides](app://obsidian.md/Sulfamides) et le [Métronidazole](app://obsidian.md/M%C3%A9tronidazole)** potentialisent l'effet des AVK (**Déplacement de la fixation protéique**) et majorent le risque de saignement.

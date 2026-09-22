@@ -1,0 +1,1 @@
+la cause  [[Coagulation Intra Vasculaire Disséminée (CIVD)]]

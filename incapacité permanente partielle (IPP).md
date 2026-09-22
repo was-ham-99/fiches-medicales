@@ -1,0 +1,1 @@
+La perte partielle de la fonction d'un organe ou d'un membre du corps humain

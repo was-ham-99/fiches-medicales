@@ -1,0 +1,1 @@
+ salmonelloses mineures sont des [[gastro-entérites]] sans collapsus constant

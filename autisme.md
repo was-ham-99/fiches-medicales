@@ -1,0 +1,1 @@
+L'[[autisme]] typique (TSA) se caractérise par des altérations des interactions sociales (C), de la communication (D), des intérêts restreints (E) et un début avant 3 ans (B). Le **retard psychomoteur global** n'est pas un critère diagnostique ; le développement moteur peut être normal ou hétérogène.

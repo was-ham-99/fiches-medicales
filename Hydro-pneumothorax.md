@@ -1,0 +1,1 @@
+matité à la percussion et abolition du murmure vésiculaire

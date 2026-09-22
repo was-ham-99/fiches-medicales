@@ -1,0 +1,5 @@
+- ubiquitaire et cosmopolite
+- croissante lente
+- LEGIONELLA: COLORATION DE GRAM 
+- Recherche d'antigènes solubles urinaires
+- [[Bacilles à Gram négatif (BGN)]])

@@ -1,0 +1,1 @@
+-  Le benzène est métabolisé dans le foie en plusieurs composés, dont le **[[phénol]]**, qui est éliminé dans les urines (sous forme de phénol conjugué). La recherche de phénol urinaire est un test biologique d'exposition au benzène.

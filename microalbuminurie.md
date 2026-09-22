@@ -1,0 +1,1 @@
+microalbuminurie significative est **>30 mg/l**.

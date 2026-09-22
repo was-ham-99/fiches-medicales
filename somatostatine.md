@@ -1,0 +1,1 @@
+somatostatine **inhibe** la sécrétion [[acide gastrique]].

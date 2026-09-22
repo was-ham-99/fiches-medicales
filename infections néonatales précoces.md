@@ -1,0 +1,1 @@
+es trois germes les plus fréquents dans les **[[infections néonatales précoces]]** (avec _E. coli_ et _Listeria monocytogenes_ et [[Streptococcus agalactiae]]

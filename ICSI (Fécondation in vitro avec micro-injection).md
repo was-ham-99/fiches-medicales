@@ -1,0 +1,1 @@
+Elle permet de sélectionner manuellement un spermatozoïde viable et de l'introduire directement dans l'ovocyte de la conjointe, contournant ainsi les anomalies de mobilité et de pénétration.

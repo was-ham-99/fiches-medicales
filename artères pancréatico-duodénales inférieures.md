@@ -1,0 +1,1 @@
+qui viennent, elles, de l'**[[Artère mésentérique supérieure (AMS)]]

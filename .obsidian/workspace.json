@@ -1,0 +1,433 @@
+{
+  "main": {
+    "id": "37f364887f5b8d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c64158310813091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bffdd9e2566e7f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 28"
+            }
+          },
+          {
+            "id": "4758498e1c7c6672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "acides aminés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "acides aminés"
+            }
+          },
+          {
+            "id": "dc1fe1836ff48f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bronchogramme aérique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bronchogramme aérique"
+            }
+          },
+          {
+            "id": "e496767ce29d4bc7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "residanat/Cours + Remarque/2. Science Interventionelle/Hemato/5.5 Pti et hemophilie.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5.5 Pti et hemophilie"
+            }
+          },
+          {
+            "id": "e246036f8b68952c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infections urinaires.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infections urinaires"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "3167b83ca6e8d90b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba3829117988bc4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "residanat/Cours + Remarque/2. Science Interventionelle/MPR/Rhumato/08-_Rhumatologie.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "08-_Rhumatologie"
+            }
+          },
+          {
+            "id": "ae1f62316a4c4362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pyélonéphrite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pyélonéphrite"
+            }
+          },
+          {
+            "id": "d90291dc85eb8f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maladie de Ménière.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maladie de Ménière"
+            }
+          },
+          {
+            "id": "3db66587deef285e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "residanat/Cours + Remarque/1. Science Fondamentale/Pharmacologie/Sympathomimetique = (adrenaline et dopamine et dobutamine)vasocontriction.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Sympathomimetique = (adrenaline et dopamine et dobutamine)vasocontriction"
+            }
+          },
+          {
+            "id": "72d3ea4f8c9faf42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "residanat/Cours + Remarque/2. Science Interventionelle/Ophtalmologie/17-_Ophtalmologie.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "17-_Ophtalmologie"
+            }
+          },
+          {
+            "id": "b17865a4735a4a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schizophrénie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schizophrénie"
+            }
+          },
+          {
+            "id": "2db216b383a342cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spondylarthrite ankylosante (SPA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spondylarthrite ankylosante (SPA)"
+            }
+          },
+          {
+            "id": "cf7452390afb5135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infections urinaires.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infections urinaires"
+            }
+          },
+          {
+            "id": "b28aeb5c956f53fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spondylarthrite ankylosante (SPA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spondylarthrite ankylosante (SPA)"
+            }
+          },
+          {
+            "id": "1a94cccc6e66c0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 36.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 36"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28bb3b4189d13f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65c487225a8ce9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74667558ccd0e1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d7d31dcda7283ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d5f6ada38224ec67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "fa612dffbe32c4d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "924952dbd362c1d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec2819182f7db04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Infections urinaires.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "adfdb7ffbd400eaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2005.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2005"
+            }
+          },
+          {
+            "id": "66d69278b72e4b27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b30eb8246697629",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5b084fc8482e5f38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physiologie/2002.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2002"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e246036f8b68952c",
+  "lastOpenFiles": [
+    "Sujets Résidanat -20260506T082408Z-3-001.zip",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/sauvegarde_fiches.zip",
+    "Rubéole Congénitale.md",
+    "Infections urinaires.md",
+    "Toxoplasmose congénitale.md",
+    "Guide de préparation et méthodologie.md",
+    "Untitled 39.md",
+    "Untitled 28.md",
+    "Triage.md",
+    "Terme absolus (toujours - jamais - uniquement).md",
+    "Alternative extreme (Toutes - aucune).md",
+    "Pyélonéphrite.md",
+    "cas_clinique_2025_5_dossier.md",
+    "cas_clinique_7_dossier_2017.md",
+    "Fièvre en pediatrie.md",
+    "Clinique_2006.md",
+    "Pyélonéphrite aiguë.md",
+    "cas_clinique_13_dossier_2005.md",
+    "Colite aiguë grave (CAG).md",
+    "Maladie de Ménière.md",
+    "residanat/2025/Clinique/Orl/Surdité/SURDITE SP2025 grp Dr Mhd _250720_052043.pdf",
+    "réflexe ORL.md",
+    "Untitled 36.md",
+    "cas_clinique_11_dossier_2005.md",
+    "Spondylarthrite ankylosante (SPA).md",
+    "Seuils biolgiques ou cliniques proches.md",
+    "cas_clinique_10_dossier_2005.md",
+    "Unite et conversion.md",
+    "residanat/Cours + Remarque/2. Science Interventionelle/MPR/Rhumato/ITEM-R2C 197 (ex-193) - SPONDYLOARTHRITE.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/MPR/Rhumato/08-_Rhumatologie.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Hemato/5.5 Pti et hemophilie.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/ORL/1.Otite Moyenne Aigu.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Psychiatrie/Schizophrenie.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Ophtalmologie/17-_Ophtalmologie.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/classification gharbi.jpg",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/jlehpg2265gr3.jpg",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/cliché pathologie pleural.pdf",
+    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/Cliché cancer.pdf",
+    "28056761_1618438141545051_1620896804438130259_n.jpg",
+    "residanat/Photos/Classification nyha.png",
+    "images.jpeg",
+    "Le-traitement-non-chirurgical-du-khf-6-320.webp",
+    "Screenshot_2026-08-27_15-35-20.png",
+    "residanat/Cours + Remarque/frequence_cours_residanat.png",
+    "structure-du-spermatozoide 2.png",
+    "structure-du-spermatozoide 1.png"
+  ]
+}

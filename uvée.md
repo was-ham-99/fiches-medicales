@@ -1,0 +1,1 @@
+u tractus uvéal) est la tunique vasculaire de l'œil, située entre la sclère et la rétine. Elle est constituée de trois parties, d'avant en arrière : l'**iris**, le **corps ciliaire**, et la **choroïde**.

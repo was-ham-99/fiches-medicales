@@ -1,0 +1,3 @@
+La motricité intestinale est stimulée par le système **parasympathique** (D - vrai), le **réflexe gastro-iléal** (E - vrai) (distension gastrique -> accélération du péristaltisme iléal), et certaines hormones comme la **cholécystokinine** (CCK) (A - vrai) et les **sels biliaires** (B - vrai). Le **[[Vasoactive Intestinal Peptide (VIP)]]** (C) est un **neurotransmetteur inhibiteur** du muscle lisse, il provoque une **relaxation** (notamment des sphincters) et ne stimule pas la motricité. C'est l'intrus.
+    
+- **Mots-clés / Pièges :** VIP = **vasodilatateur et inhibiteur** de la motricité.

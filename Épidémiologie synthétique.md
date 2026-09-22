@@ -1,0 +1,7 @@
+- Indices : morbidité, mortalité. 
+- Distribution : personne / lieu / temps. 
+- Modes d’expression : 
+    - **Sporadique** = quelques cas isolés. 
+    - Endémie = persistante, limitée (ex : tuberculose) **(limité dans le lieu et illimité dans le temps)**. 
+    - [[Épidémie]] = brusque augmentation dans une collectivité **(limité dans le lieux et limité dans le temps)**. 
+    - Pandémie = mondiale (ex : grippe, Covid) **(illimité dans le lieux et illimité dans le lieux)**. 

@@ -1,0 +1,5 @@
+ - La prolactine est sécrétée par les cellules lactotropes de l'**[[anté-hypophyse (adénohypophyse)]]** , pas la post-hypophyse.
+- La prolactine n'a pas de rétrocontrôle négatif direct sur sa propre sécrétion (contrairement à la plupart des hormones hypophysaires).
+- La **[[dopamine]] est inhibitrice** de la sécrétion de prolactine (via les récepteurs D2).
+- Les [[œstrogènes]] stimulent la synthèse de prolactine (effet direct sur les lactotropes) **et** inhibent son action au niveau mammaire. 
+- La prolactine est responsable de la **[[lactogenèse (production de lait)]], tandis que l'**[[ocytocine]]** est responsable de l'éjection du lait.

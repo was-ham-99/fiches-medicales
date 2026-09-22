@@ -1,0 +1,1 @@
+- n'appartient pas au syndrome cérébelleux ; il est caractéristique d'une atteinte vestibulaire ou de la sensibilité profonde ([[ataxie cordonale postérieure]]).

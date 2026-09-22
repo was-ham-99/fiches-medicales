@@ -1,0 +1,1 @@
+ La prolactine est responsable de la **lactogenèse** (production de lait), tandis que l'**ocytocine** est responsable de l'éjection du lait.

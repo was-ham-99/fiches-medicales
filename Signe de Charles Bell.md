@@ -1,0 +1,1 @@
+C'est le signe pathognomonique de l'**atteinte périphérique** ; lors de la tentative de fermeture de l'œil, le globe oculaire se déplace vers le haut et en dehors, laissant voir la sclérotique.

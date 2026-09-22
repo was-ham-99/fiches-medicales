@@ -1,0 +1,1 @@
+ADN satellite : centromËres , tÈlomËres ( 10% du gÈnome humain)

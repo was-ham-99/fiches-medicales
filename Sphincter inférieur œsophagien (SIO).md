@@ -1,0 +1,1 @@
+graisses, tabac, alcool, chocolat  **inhibent** la fermuture Sphincter inférieur œsophagien (SIO).

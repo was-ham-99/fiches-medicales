@@ -1,0 +1,3 @@
+- **[[Choc Anaphylactique]]** : Administration d'**Adrénaline** (Épinéphrine) en urgence. Elle agit sur les récepteurs **alpha** (vasoconstriction) et **beta** (bronchodilatation, inotrope positif).
+- **[[Dopamine]]** est un neurotransmetteur central qui est aussi un précurseur métabolique de l’**adrénaline** et la **[[noradrénaline]], D1, D2.
+- 

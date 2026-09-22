@@ -1,0 +1,1 @@
+la **[[veine saphène interne (grande saphène)]]**  se termine dans la **[[veine fémorale]]** au niveau du hiatus saphénien. La **veine saphène externe** (petite saphène) se termine dans la **[[veine poplitée]]**

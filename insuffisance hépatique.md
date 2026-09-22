@@ -1,0 +1,2 @@
+[[Isoniazide (H)]]
+[[Rifampicine (R)]]

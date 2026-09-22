@@ -1,0 +1,1 @@
+Le "bouton aortique" est la partie de la crosse de l'aorte visible sur la radio de face, à gauche du médiastin. Pour l'effacer, une tumeur doit se situer dans le poumon gauche, en contact avec cette structure. Le **segment antérieur du lobe supérieur gauche** est en projection directe du bouton aortique.

@@ -1,0 +1,3 @@
+La **prono-supination** est le mouvement de rotation du radius autour de l'ulna. Les structures impliquées sont : l'articulation **radio-ulnaire proximale**, l'articulation **radio-ulnaire distale**, la **membrane interosseuse**, et l'articulation **huméro-radiale** (qui guide le radius).
+    
+- **Piège :** L'articulation **huméro-ulnaire** est une trochléenne, responsable de la flexion-extension du coude, et n'intervient pas dans la rotation.

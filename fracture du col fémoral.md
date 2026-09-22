@@ -1,0 +1,6 @@
+[[fractures cervicales vraies du col du fémur]]
+[[Fracture de jambe]]
+[[Luxation traumatique de l'épaule]]
+[[Infections de la main]]
+[[Syndrome de Volkmann]]
+[[Fracture de l’extrémité inférieure du radius]]

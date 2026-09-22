@@ -1,0 +1,3 @@
+-  il s'agit d'une protéine multimérique de très haut poids moléculaire, synthétisée par les cellules endothéliales et les mégacaryocytes.
+- [[Maladie de Willebrand]]
+- 

@@ -1,0 +1,1 @@
+Les artères coronaires.  naissent de l'[[aorte]].

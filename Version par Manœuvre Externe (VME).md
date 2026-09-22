@@ -1,0 +1,1 @@
+Elle consiste ‡ transformer une prÈsentation oblique en une prÈsentation longitudinale ou faire passer le fœtus d’une présentation podalique à une prÈsentation cÈphalique

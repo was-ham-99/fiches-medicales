@@ -1,0 +1,3 @@
+**prévalence** mesure le nombre de cas (anciens et nouveaux) d'une maladie dans une population à un **moment donné** ou sur une courte période. C'est une photographie à un instant T. On ne peut la mesurer que lors d'une enquête **transversale** (ou étude de prévalence). Les études longitudinales (cohorte) (A) mesurent l'incidence. Les études cas-témoins (C, D) mesurent un odds ratio.
+    
+- **Mots-clés / Pièges :** **Prévalence = photo (instantané) = étude transversale**. **[[Incidence]] = film (suivi) = étude de cohorte**.

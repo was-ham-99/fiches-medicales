@@ -1,0 +1,1 @@
+==il faut éviter tous les examens médicaux utilisant des rayons X ou des substances radioactives (radiographies, scanners, scintigraphies) non urgents, ainsi que les métiers à risque==. Privilégiez les techniques non irradiantes comme **l'échographie** ou **l'IRM** pour protéger le fœtus.

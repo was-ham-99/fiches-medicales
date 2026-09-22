@@ -1,0 +1,1 @@
+ Il s'agit d'une **métastase ovarienne** d'un cancer primitif, le plus souvent d'origine **gastrique**.

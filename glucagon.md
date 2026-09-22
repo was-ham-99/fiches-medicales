@@ -1,0 +1,1 @@
+Le glucagon est une hormone hyperglycémiante (favorise la glycogénolyse et la néoglucogenèse hépatique).

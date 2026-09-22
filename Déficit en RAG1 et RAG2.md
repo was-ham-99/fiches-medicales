@@ -1,0 +1,3 @@
+- T (-) B(-) NK(+)
+- Le plus grave des [[Déficit immunitaire combiné sévère (DICS)]]
+- Transmission **autosomique recessif** et non lie au sexe

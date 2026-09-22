@@ -1,0 +1,2 @@
+- **[[Arthrite Microcristalline (Goutte)]] :** Due aux cristaux d'**urate de sodium**. Elle est évoquée devant une mono-arthrite (souvent le genou ou le gros orteil) à début nocturne, répondant en 24-48h à la **colchicine**. L'hyperuricémie (> 70 mg/L) est un argument majeur.
+- **[[Chondrocalcinose]] :** Présence de cristaux de **pyrophosphate de calcium**. À la radiographie, on observe un liseré calcique intra-articulaire (ménisques, ligament triangulaire du carpe).

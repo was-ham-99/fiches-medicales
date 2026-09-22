@@ -1,0 +1,1 @@
+- ==déficit immunitaire primitif très rare et grave, de **transmission autosomique récessive**==. Contrairement au [[Syndrome de Wiskott Aldrich]] qui touche principalement la signalisation et les anticorps, cette pathologie est un **défaut du trafic vésiculaire et lysosomal**

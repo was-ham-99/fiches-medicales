@@ -1,0 +1,1 @@
+Le **cerclage** est indiqué en cas de **béance du col**, surtout au deuxième trimestre

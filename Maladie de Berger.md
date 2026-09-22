@@ -1,0 +1,1 @@
+ La maladie de Berger (néphropathie à IgA) donne des reins de taille normale ou diminué

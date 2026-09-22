@@ -1,0 +1,2 @@
+- est un **inhibiteur enzymatique** : il diminue l'activité des cytochromes et peut majorer les effets secondaires d'autres médicaments (ex : anticoagulants oraux).
+- 

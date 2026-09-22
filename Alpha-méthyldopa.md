@@ -1,0 +1,1 @@
+[[Anémie hémolytique]] est l'effet secondaire caractéristique d'un autre hypertenseur central, l'**Alpha-méthyldopa**,

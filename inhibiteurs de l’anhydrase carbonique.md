@@ -1,0 +1,3 @@
+- [[Acétazolamide (Diamox)]]
+- brinzolamide
+- Dorzolamide

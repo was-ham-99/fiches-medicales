@@ -1,0 +1,1 @@
+- est un **[[inhibiteurs de l’anhydrase carbonique]]** utilisé pour traiter le [[glaucome]] l'hypertension intracrânienne bénigne

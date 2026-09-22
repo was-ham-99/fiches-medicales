@@ -1,0 +1,1 @@
+L'exocol est recouvert d'un **épithélium malpighien (pavimenteux stratifié non kératinisé)**, tandis que l'[[endocol]] a un épithélium cylindrique simple avec des glandes.

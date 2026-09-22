@@ -1,0 +1,3 @@
+a première étape de la glycolyse (dégradation du glucose) dans toutes les cellules, y compris le muscle, est la phosphorylation du glucose en glucose-6-phosphate. Cette réaction est catalysée par des **hexokinases**. La **glucokinase** (A) est une isoforme de l'hexokinase spécifique du foie et du pancréas, avec une faible affinité pour le glucose (Km élevé). La **pyruvate carboxylase** (C) est une enzyme de la gluconéogenèse. La **LDH** (D) transforme le pyruvate en lactate. La **G6PD** (E) est l'enzyme clé de la voie des pentoses phosphates.
+
+**Mots-clés / Pièges :** **Muscle = Hexokinase** (forte affinité pour le glucose). **Foie = Glucokinase**.

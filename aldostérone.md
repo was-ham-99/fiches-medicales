@@ -1,0 +1,2 @@
+- est un [[minéralocorticoïde]]
+- Aldostérone est l'hormone qui dit au rein : **"Garde le sodium (sel) et jette le potassium dans les urines."**

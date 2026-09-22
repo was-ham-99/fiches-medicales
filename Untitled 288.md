@@ -1,0 +1,1 @@
+[[Score de Glasgow (GCS)]]

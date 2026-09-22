@@ -1,0 +1,1 @@
+e **lymphœdème** (E) est une pathologie chronique, qui s'installe progressivement (souvent secondaire à une filariose, un curage ganglionnaire) et ne constitue pas une urgence aiguë.

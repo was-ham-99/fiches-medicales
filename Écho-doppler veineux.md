@@ -1,0 +1,1 @@
+C'est l'examen de **première intention** et de référence pour confirmer le diagnostic (visualisation du thrombus et incompressibilité de la veine).

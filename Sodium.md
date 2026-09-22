@@ -1,0 +1,1 @@
+est le ==principal cation== **extracellulaire** et détermine l'osmolalité, donc le volume hydrique. Plus il y a de sodium, plus le volume extracellulaire est grand (rétention hydrique).

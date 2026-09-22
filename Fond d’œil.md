@@ -1,0 +1,1 @@
+ Le fond d'œil est crucial pour grader la rétinopathie hypertensive aiguë 

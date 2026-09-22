@@ -1,0 +1,1 @@
+L'immunofluorescence est généralement considérée comme une technique de détection (qualitative/semi-quantitative), contrairement à la **[[néphélémétrie]]** qui est une technique **purement quantitative**.

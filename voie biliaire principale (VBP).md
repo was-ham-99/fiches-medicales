@@ -1,0 +1,1 @@
+(A) Faux, elle fait suite à la jonction du canal hépatique commun et du canal cystique. (B) Vrai, le canal hépatique commun + canal cystique = VBP. (D) Faux, elle se termine au niveau du **2ème** duodénum. (E) Vrai, elle s'abouche avec le canal de Wirsung pour former l'ampoule de Vater

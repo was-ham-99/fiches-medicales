@@ -1,0 +1,3 @@
+a paralysie bulbaire (ou syndrome bulbaire) est due à une atteinte des noyaux des nerfs crâniens (IX, X, XII) dans le bulbe rachidien. Elle se manifeste par des troubles des derniers nerfs crâniens : **dysphagie** (C, difficulté à avaler), **dysarthrie** (D, trouble de l'articulation), **dysphonie** (E, trouble de la voix, voix nasonnée), et une **atrophie de la langue** (B) avec fasciculations si le XII est touché.
+    
+- **A : Diplopie :** C'est une vision double, due à une atteinte des nerfs oculomoteurs (III, IV, VI). Ce n'est pas un symptôme de paralysie bulbaire. C'est la réponse fausse.

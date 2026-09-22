@@ -1,0 +1,1 @@
+- **[[Artère mésentérique inférieure (AMI)]] :** Irrigue le **Côlon gauche** (partie gauche du transverse, côlon descendant, [[Côlon sigmoïde]]) et se termine en donnant les **artères rectales supérieures** pour le haut rectum.

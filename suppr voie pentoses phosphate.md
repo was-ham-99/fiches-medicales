@@ -1,0 +1,2 @@
+- permet indirectement la sythese des acide gras
+- est cytosolique

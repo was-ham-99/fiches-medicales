@@ -1,0 +1,2 @@
+- Technique **qualitatif** ou **semi quantitatif** 
+- Contrairement au [[Technique de mancini ]]qui est une technique **quantitatif**

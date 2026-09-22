@@ -1,0 +1,1 @@
+ L'hôte **définitif** d'Echinococcus granulosus est le chien , l'hôte **intermédiaire** est le mouton (et autres herbivores). L'homme est un hôte **accidentel**.

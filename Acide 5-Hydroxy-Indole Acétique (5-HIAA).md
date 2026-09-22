@@ -1,0 +1,1 @@
+ Il est exigé de savoir que le 5-HIAA provient de la dégradation de la **[[Sérotonine]]**, qu'il s'agit du produit terminal de l'une des voies cataboliques du tryptophane, et qu'il contient un noyau hétérocyclique aromatique.

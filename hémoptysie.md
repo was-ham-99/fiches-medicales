@@ -1,0 +1,1 @@
+examen paraclinique de première intention à réaliser dans le bilan étiologique d'une hémoptysie [[Radiographie du thorax]]

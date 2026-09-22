@@ -1,0 +1,3 @@
+a vidange gastrique est un processus régulé. Elle est possible grâce aux contractions de l'estomac distal (A - vrai). Elle est stimulée par la **g hr eline** (hormone orexigène) (B - vrai). Elle est ralentie par un repas riche en graisses et sucres (C - vrai) (via l'entérogastrone). Elle est accélérée par la **motiline** (E - vrai), hormone qui stimule le complexe moteur migrant. L'**acidité du duodénum** (présence de chyme acide) **ralentit** la vidange gastrique (réflexe entérogastrique), elle ne l'accélère pas (D - faux).
+    
+- **Mots-clés / Pièges :** L'**acidité duodénale** est un frein à la vidange gastrique.

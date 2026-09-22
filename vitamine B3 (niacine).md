@@ -1,0 +1,1 @@
+Le NAD+ dérive de la vitamine B3 (niacine), pas B2 (riboflavine).

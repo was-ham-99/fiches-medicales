@@ -1,0 +1,3 @@
+Les VLDL (Very Low Density Lipoproteins) sont des lipoprotéines de **densité très basse** (A - vrai) synthétisées par le **foie** pour transporter les **triglycérides d'origine endogène** (B - vrai) vers les tissus périphériques. Leurs apoprotéines principales sont l'**Apo B100** et l'Apo C (D - vrai). Dans certaines situations (diabète, etc.), elles peuvent être athérogènes (E - vrai). Les **chylomicrons** sont d'origine intestinale et transportent les lipides exogènes (alimentaires). Leur catabolisme donne des "remnants" (rémanents), mais pas des VLDL. L'affirmation est donc fausse.
+    
+- **Mots-clés / Pièges :** **Chylomicrons = exogène** (intestin). **VLDL = endogène** (foie).

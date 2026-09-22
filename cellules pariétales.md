@@ -1,0 +1,1 @@
+Le [[facteur intrinsèque]]  est sécrété par les **cellules pariétales**

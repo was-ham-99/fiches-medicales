@@ -1,0 +1,4 @@
+- Phénicolés (Chloramphénicol,Thiamphénicol)
+- Une bonne diffusion lymphatique (en DZ TRT de la [[Fièvre typhoïde]]) et hématoméningée.
+- Toxicité : 
+    - hématopoïèse: [[Aplasie médullaire (insuffisance médullaire)]]

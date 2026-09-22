@@ -1,0 +1,5 @@
+-  Le TOC débute **généralement** dans l'enfance ou chez l'adulte jeune (adolescence, début de l'âge adulte). Les autres propositions sont vraies :
+- évolution chronique (B), 
+- complication dépressive (C), 
+- rituels invalidants (D), 
+- répartition égale entre les sexes (E).

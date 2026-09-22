@@ -1,0 +1,1 @@
+L'**ecthyma gangréneux** (ou _ecthyma gangrenosum_) est une lésion cutanée nécrotique hautement caractéristique et classiquement causée par une septicémie à **[[Pseudomonas aeruginosa]]** (bacille pyocyanique), et **non par le staphylocoque**. Elle survient le plus souvent chez les sujets sévèrement immunodéprimés ou neutropéniques

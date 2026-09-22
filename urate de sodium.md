@@ -1,0 +1,1 @@
+- fortement birefringente negative

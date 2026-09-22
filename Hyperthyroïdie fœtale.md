@@ -1,0 +1,1 @@
+- surveillance rapprochée du fœtus par Èchographie pour dÈpister une hyperthyroÔdie fœtale (tachycardie, goitre, avance de maturation osseuse) par passage transplacentaire d’anticorps ou un goitre fœtal par passage transplacentaire d’ATS à partir de la 22e semaine de grossesse 

@@ -1,0 +1,1 @@
+ont au nombre de 3 : la **[[cytosine (C)]]**, la **[[thymine (T)]]** et l’**[[Uracile (U)]]**

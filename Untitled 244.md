@@ -1,0 +1,2 @@
+[[vomissement bilieux]]
+[[Ictère]]

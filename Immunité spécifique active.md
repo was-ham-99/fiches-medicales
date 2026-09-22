@@ -1,0 +1,4 @@
+- **Spécifique :** Les armes créées ne fonctionnent que contre un seul microbe précis. Les anticorps contre la grippe ne protègeront pas contre le Covid-19.
+- **Lente à s'installer :** Lors du premier contact, il faut plusieurs jours à quelques semaines pour que le corps fabrique ses défenses.
+- **Durable (Mémoire immunitaire) :** Une fois acquise, cette protection dure des années, parfois toute la vie, grâce aux **lymphocytes B et T mémoires**. 
+- **Efficace **

@@ -1,0 +1,2 @@
+- L’**[[adénine]]** : le carbone 6 est substituÈ par une fonction amine. Elle est la seule des bases nuclÈiques dont la formule ne contient pas d’atome d’oxygène. 
+- La **[[guanine]]** :le carbone 2 est substituÈ par une fonction amine et le carbone 6 par une fonction cÈtone.

@@ -1,0 +1,1 @@
+-  Cytokine régulatrice et anti-inflammatoire.

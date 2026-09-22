@@ -1,0 +1,6 @@
+- [[Benzodiazépine]]
+- [[Antiépileptiques]]
+- [[anxiolytiques]], sédatif, myorelaxant et anticonvulsivant
+- effet secondaire :
+    - Sédation, altération cognitive 
+    - Sur une durée limitée seulement : perte d’efficacité après quelques mois 

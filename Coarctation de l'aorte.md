@@ -1,0 +1,1 @@
+L'analyse du téléthorax peut montrer une image en **double bosse de l'arc moyen gauche** et un élargissement en chemise de l'aorte ascendante.

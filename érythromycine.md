@@ -1,0 +1,1 @@
+:** L'**[[érythromycine]]** est un macrolide, utilisé principalement pour les infections respiratoires, cutanées, à germes atypiques. Ce n'est pas un antituberculeux de première ligne.

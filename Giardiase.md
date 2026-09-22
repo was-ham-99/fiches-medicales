@@ -1,0 +1,1 @@
+_Giardia intestinalis_) est une parasitose intestinale (duodénale). Le parasite reste dans la lumière intestinale, n'infeste pas le foie. Les autres ont un tropisme hépatique : (B) Paludisme (hémato-hépatique), (C) Fasciolose (hépatique), (D) Bilharziose intestinale (les œufs peuvent emboliser le foie), (E) Échinococcose hydatique (kyste hépatique).

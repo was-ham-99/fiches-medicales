@@ -1,0 +1,1 @@
+La peste (Yersinia pestis) se manifeste par des bubons (pus), une septicémie (sang), une forme pulmonaire (expectorations). Les urines et selles ne sont pas utiles.

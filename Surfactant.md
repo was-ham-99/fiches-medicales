@@ -1,0 +1,1 @@
+Les pneumocytes de type II produisent le surfactant.
