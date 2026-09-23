@@ -262,7 +262,7 @@ Voici les corrections détaillées pour les questions des pages 22 à 38 du conc
   
   
 
-**28. Les éléments évocateurs d'une [[grossesse molaire]] sont: (Cochez la réponse fausse)**
+**28. Les éléments évocateurs d'une [[grossesse molaire (Mole hydatiforme)]] sont: (Cochez la réponse fausse)**
 
 * **Correction : A. Une aménorrhée suivie de métrorragies modérées mais répétées.**
 

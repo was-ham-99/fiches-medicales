@@ -8,7 +8,7 @@
 
 ### Question 111
 
-**Selon vous, cette pancréatite est initialement classée comme : (Cochez la réponse juste)**
+**Selon vous, cette [[Pancréatite]] est initialement classée comme : (Cochez la réponse juste)**
 
 - A. Bénigne
 - B. Grave

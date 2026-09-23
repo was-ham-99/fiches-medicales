@@ -1,0 +1,1 @@
+physiopathologie de la première bronchiolite est un œdème de la paroi et une hypersécrétion bronchique, et non un bronchospasme comme dans l'asthme. Le Salbutamol (Ventoline) et les corticoïdes (Solumedrol) n'ont **aucune efficacité démontrée** et ne doivent pas être prescrits en routine.

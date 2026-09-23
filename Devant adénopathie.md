@@ -1,0 +1,12 @@
+- Adénopathies cervicales des **réticuloses** : **[[Sarcoïdose]]**
+- Adénopathies d’origine médicamenteuse : hydantoïnes, **[[Carbamazépine (Tégrétol)]]**, **rifampicine**, pénicillines, **captopril** et **méthyldopa
+- Adénopathies cervicales d’origine **infectieuse
+    - **Tuberculose**
+    - **Syphilis**
+    - **[[Toxoplasmose]]**
+    - **Tularémie**   : maladie infectieuse à BGN pasturella tularensis
+    - **[[Rubéole]]**
+- Adénopathies inflammatoires chroniques
+    - **[[Polyarthrite Rhumatoïde (PR)]]
+    - **[[Lupus Érythémateux Systémique (LES)]]
+    -   Le syndrome de Gougerot Sjogren maladie de Rosai dorfman , maladie de Castelman , maladie de Kawasaki

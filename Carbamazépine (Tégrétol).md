@@ -1,0 +1,2 @@
+- agit comme régulateur de l'humeur (thymorégulateur) 
+- utilise [[État maniaque]]

@@ -23,6 +23,35 @@ QCM CLINIQUE
 [[2025]]
 
 
+**Cat**
+
+[[cas_clinique_1_clinique_2019]]
+[[cas_clinique_2_clinique_2019]]
+[[cas_clinique_5_clinique_2019]]
+[[cas_clinique_7_clinique_2019]]
+[[cas_clinique_8_clinique_2019]]
+[[cas_clinique_9_clinique_2019]]
+[[cas_clinique_12_clinique_2019]]
+
+[[cas_clinique_2021_2]]
+[[cas_clinique_2021_3]]
+
+[[cas_clinique_2022_1_dec]]
+[[cas_clinique_2022_4_dec]]
+
+
+[[cas_clinique_2023_2]]
+[[cas_clinique_2023_5]]
+
+
+[[cas_clinique_2024_1]]
+[[cas_clinique_2024_2]]
+[[cas_clinique_2024_3]]
+[[cas_clinique_2024_5]]
+
+[[cas_clinique_2025_1]]
+[[cas_clinique_2025_2]]
+[[cas_clinique_2025_3]]
 
 
 Cas clinique 
@@ -101,5 +130,9 @@ COURS  sois Cas sois dossier
 [[Purpura Thrombopénique Idiopathique (PTI)]]
 [[Spondylarthrite ankylosante (SPA)]]
 
+[[grossesse molaire (Mole hydatiforme)]] / [[Choriocarcinome]]
+
+[[Pancréatite]]
 [[Infections urinaires]]
+[[diabète gestationnel]]
 

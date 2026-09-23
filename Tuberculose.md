@@ -1,5 +1,11 @@
 - En Algérie, devant une aménorrhée secondaire avec antécédent de tuberculose (même pulmonaire), il faut toujours suspecter une **tuberculose génitale** qui peut provoquer des **synéchies utérines** ([[Syndrome d'Asherman]] ou une atteinte tubaire
 
+- ponction-aspiration à l’aiguille fine permet une étude cytologique et bactériologique
+
+- diagnostic de tuberculose ganglionnaire **ne doit être retenu** que si la cytologie est formelle (présence de cellules géantes) ou si l’examen bactériologique (examen direct et/ou après culture sur milieu de Löwenstein- Jensen après 3 semaines) permet l’isolement de   **Mycobacterium tuberculosis
+-  biopsie chirurgicale est **contre-indiquée** compte tenu du risque élevé de fistulisation
+- Traitement est avant **tout** médical ; un traitement antibiotique antituberculeux, bactéricide (trithérapie les 2 premiers mois puis bithérapie) est poursuivi 6 à 9 mois.
+    -  chirurgie **n’est indiquée** qu’en cas d’échec du traitement médical,
 
 
 Au concours de résidanat, la **tuberculose** est un pilier incontournable, abordée de manière transversale en microbiologie, anatomopathologie, pneumologie et pédiatrie. Elle est classée parmi les sujets "hypertombables" (au moins 20 apparitions majeures dans les annales).

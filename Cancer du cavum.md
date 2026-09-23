@@ -66,3 +66,6 @@ Le diagnostic doit être évoqué devant toute symptomatologie unilatérale tra�
 - **"Traitement de référence = Radiothérapie."**
 - **"UCNT = Radio-chimiosensible."**
 - **"Lien génétique Algérie = HLA B5."**
+
+[[Cancer du cavum (UCNT)]]
+[[Devant adénopathie]]

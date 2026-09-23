@@ -1,3 +1,5 @@
+
+
 Voici le **deuxième dossier clinique** (Dossier N°2) avec toutes ses questions et propositions, retranscrit fidèlement depuis le fichier PDF.
 
 ---

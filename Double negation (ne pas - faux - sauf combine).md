@@ -270,7 +270,8 @@ Selon les annales, l'évolution de l'angor chronique [[Syndrome Coronaire Chroni
 
 
 ### [[Cancer du sein]]
-Un kyste du sein et l'adénofibrome ne donne pas [[Devant adénopathie]] axillaire
+- 
+- Un kyste du sein et l'adénofibrome ne donne pas [[Devant adénopathie]] axillaire
 
 ### ==[[Conjonctivite]]==
 

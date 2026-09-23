@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 28.md",
+                "file": "cas_clinique_2_clinique_2012.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 28"
+              "title": "cas_clinique_2_clinique_2012"
             }
           },
           {
@@ -74,76 +74,79 @@
               "icon": "lucide-file",
               "title": "Infections urinaires"
             }
+          },
+          {
+            "id": "362d6d437c8052b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuberculose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuberculose"
+            }
+          },
+          {
+            "id": "dc9278d7a0f196a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clinique_2015.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clinique_2015"
+            }
+          },
+          {
+            "id": "d0fbaf67b3da79c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cas_clinique_1_clinique_2007.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cas_clinique_1_clinique_2007"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3167b83ca6e8d90b",
         "type": "tabs",
         "children": [
           {
-            "id": "cba3829117988bc4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "residanat/Cours + Remarque/2. Science Interventionelle/MPR/Rhumato/08-_Rhumatologie.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "08-_Rhumatologie"
-            }
-          },
-          {
-            "id": "ae1f62316a4c4362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pyélonéphrite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pyélonéphrite"
-            }
-          },
-          {
-            "id": "d90291dc85eb8f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maladie de Ménière.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maladie de Ménière"
-            }
-          },
-          {
-            "id": "3db66587deef285e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "residanat/Cours + Remarque/1. Science Fondamentale/Pharmacologie/Sympathomimetique = (adrenaline et dopamine et dobutamine)vasocontriction.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Sympathomimetique = (adrenaline et dopamine et dobutamine)vasocontriction"
-            }
-          },
-          {
             "id": "72d3ea4f8c9faf42",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grossesse molaire (Mole hydatiforme).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "grossesse molaire (Mole hydatiforme)"
+            }
+          },
+          {
+            "id": "6b5fb13e7ff7e57c",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "residanat/Cours + Remarque/2. Science Interventionelle/Ophtalmologie/17-_Ophtalmologie.pdf"
+                "file": "12-_Gynécologie-Obstétrique.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "17-_Ophtalmologie"
+              "title": "12-_Gynécologie-Obstétrique"
             }
           },
           {
@@ -180,12 +183,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infections urinaires.md",
+                "file": "Insuffisance rénale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infections urinaires"
+              "title": "Insuffisance rénale"
             }
           },
           {
@@ -203,21 +206,35 @@
             }
           },
           {
-            "id": "1a94cccc6e66c0e2",
+            "id": "a34a891a2787f5f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 36.md",
+                "file": "Utile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 36"
+              "title": "Utile"
+            }
+          },
+          {
+            "id": "2a4523822105439d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 68.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 68"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,7 +268,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cardiologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -272,7 +289,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infections urinaires.md",
+                "file": "Utile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,36 +399,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e246036f8b68952c",
+  "active": "a34a891a2787f5f6",
   "lastOpenFiles": [
+    "Guide de préparation et méthodologie.md",
+    "Nouveauté.md",
+    "Nouveauté embryologie.md",
+    "Nouveauté hematologie.md",
+    "COURS HYPERTOMBABLE.md",
+    "Pneumonie.md",
+    "2025.md",
+    "grossesse molaire (Mole hydatiforme).md",
+    "Choriocarcinome.md",
+    "Untitled 68.md",
+    "Radiographie du thorax.md",
+    "cas_clinique_2_clinique_2012.md",
+    "cas_clinique_6_dossier_2014.md",
+    "cas_clinique_10_clinique_2011.md",
+    "cas_clinique_2023_2.md",
+    "cas_clinique_2025_1.md",
+    "Athérosclérose.md",
+    "réflexe anatomopathologie.md",
+    "réflexe neurologie.md",
+    "réflexe pediatrie.md",
+    "réflexe pharmacologie.md",
+    "réflexe pour orientation.md",
+    "réflexe renale.md",
+    "réflexe urgence.md",
+    "Untitled 28.md",
+    "cas_clinique_1_clinique_2019.md",
+    "12-_Gynécologie-Obstétrique.pdf",
     "Sujets Résidanat -20260506T082408Z-3-001.zip",
     "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/sauvegarde_fiches.zip",
-    "Rubéole Congénitale.md",
-    "Infections urinaires.md",
-    "Toxoplasmose congénitale.md",
-    "Guide de préparation et méthodologie.md",
-    "Untitled 39.md",
-    "Untitled 28.md",
-    "Triage.md",
-    "Terme absolus (toujours - jamais - uniquement).md",
-    "Alternative extreme (Toutes - aucune).md",
-    "Pyélonéphrite.md",
-    "cas_clinique_2025_5_dossier.md",
-    "cas_clinique_7_dossier_2017.md",
-    "Fièvre en pediatrie.md",
-    "Clinique_2006.md",
-    "Pyélonéphrite aiguë.md",
-    "cas_clinique_13_dossier_2005.md",
-    "Colite aiguë grave (CAG).md",
-    "Maladie de Ménière.md",
     "residanat/2025/Clinique/Orl/Surdité/SURDITE SP2025 grp Dr Mhd _250720_052043.pdf",
-    "réflexe ORL.md",
-    "Untitled 36.md",
-    "cas_clinique_11_dossier_2005.md",
-    "Spondylarthrite ankylosante (SPA).md",
-    "Seuils biolgiques ou cliniques proches.md",
-    "cas_clinique_10_dossier_2005.md",
-    "Unite et conversion.md",
     "residanat/Cours + Remarque/2. Science Interventionelle/MPR/Rhumato/ITEM-R2C 197 (ex-193) - SPONDYLOARTHRITE.pdf",
     "residanat/Cours + Remarque/2. Science Interventionelle/MPR/Rhumato/08-_Rhumatologie.pdf",
     "residanat/Cours + Remarque/2. Science Interventionelle/Hemato/5.5 Pti et hemophilie.pdf",
@@ -419,8 +439,6 @@
     "residanat/Cours + Remarque/2. Science Interventionelle/Ophtalmologie/17-_Ophtalmologie.pdf",
     "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/classification gharbi.jpg",
     "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/jlehpg2265gr3.jpg",
-    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/cliché pathologie pleural.pdf",
-    "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/Cliché cancer.pdf",
     "28056761_1618438141545051_1620896804438130259_n.jpg",
     "residanat/Photos/Classification nyha.png",
     "images.jpeg",
