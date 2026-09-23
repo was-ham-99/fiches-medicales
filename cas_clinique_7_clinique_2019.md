@@ -160,7 +160,7 @@ Les examens montrent : foie homogène, absence d'adénopathies profondes, scanne
 
 Décortiquons selon les critères de classification TNM (en vigueur lors de l'établissement du cas) :
 
-- **T2 :** La masse mesure plus de 3 cm mais moins de 5 ou 7 cm selon les versions (ici, la plus grande dimension est de **5,7 cm** ).
+- **T2 :** La masse mesure plus de 3 cm mais moins de 5 ou 7 cm selon les versions .
     
 - **N1 :** Présence d'une **adénopathie hilaire ipsilatérale** (hilaire droite).
     

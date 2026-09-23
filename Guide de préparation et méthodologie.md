@@ -23,7 +23,7 @@ QCM CLINIQUE
 [[2025]]
 
 
-**Cat**
+**Cas**
 
 [[cas_clinique_1_clinique_2019]]
 [[cas_clinique_2_clinique_2019]]
@@ -136,3 +136,8 @@ COURS  sois Cas sois dossier
 [[Infections urinaires]]
 [[diabète gestationnel]]
 
+
+
+**Simulation**
+
+[[Clinique 2026]]

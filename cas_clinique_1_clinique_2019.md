@@ -140,7 +140,9 @@ Quelles seront les mesures thérapeutiques à prendre ? Cocher la réponse juste
 
 - **Surveillance Clinique + Scope (3, 4, 5) :** On surveille l'évolution de la détresse respiratoire par la clinique (fréquence respiratoire, signes de lutte) (5), la tolérance hémodynamique et d'hydratation (poids, diurèse, comportement) (4), ainsi que la saturation sous oxygène (3).
     
-- **Pourquoi pas la Radio (1) et la CRP (2) ?** On ne répète pas une radiographie pulmonaire ni des bilans biologiques (comme la CRP) de manière systématique chez un nourrisson si la bronchiolite suit son cours normal (pic au 3ème-5ème jour). On réserve ces examens agressifs ou irradiants uniquement en cas de suspicion de complication majeure (pneumothorax, surinfection bactérienne sévère).
+
+> - **Pourquoi pas la Radio (1) et la CRP (2) ?** On ne répète pas une radiographie pulmonaire ni des bilans biologiques (comme la CRP) de manière systématique chez un nourrisson si la bronchiolite suit son cours normal (pic au 3ème-5ème jour). On réserve ces examens agressifs ou irradiants uniquement en cas de suspicion de complication majeure (pneumothorax, surinfection bactérienne sévère).
+
     
 
 ### Question 46

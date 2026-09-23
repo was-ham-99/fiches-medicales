@@ -116,8 +116,23 @@
               "icon": "lucide-file",
               "title": "cas_clinique_1_clinique_2007"
             }
+          },
+          {
+            "id": "506e10016a2e41ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clinique 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clinique 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "3167b83ca6e8d90b",
@@ -211,12 +226,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utile.md",
+                "file": "Guide de préparation et méthodologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utile"
+              "title": "Guide de préparation et méthodologie"
             }
           },
           {
@@ -268,7 +283,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cardiologie",
+                "query": "tag:#Infectiologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utile.md",
+                "file": "Guide de préparation et méthodologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,32 +416,32 @@
   },
   "active": "a34a891a2787f5f6",
   "lastOpenFiles": [
+    "Clinique 2026.md",
     "Guide de préparation et méthodologie.md",
-    "Nouveauté.md",
-    "Nouveauté embryologie.md",
-    "Nouveauté hematologie.md",
-    "COURS HYPERTOMBABLE.md",
-    "Pneumonie.md",
-    "2025.md",
-    "grossesse molaire (Mole hydatiforme).md",
-    "Choriocarcinome.md",
-    "Untitled 68.md",
-    "Radiographie du thorax.md",
-    "cas_clinique_2_clinique_2012.md",
-    "cas_clinique_6_dossier_2014.md",
-    "cas_clinique_10_clinique_2011.md",
-    "cas_clinique_2023_2.md",
+    "cas_clinique_2025_3.md",
+    "insuffisance rénale aigue.md",
+    "Metformine.md",
+    "cas_clinique_2025_2.md",
+    "Déséquilibres Acido-Basiques.md",
     "cas_clinique_2025_1.md",
-    "Athérosclérose.md",
-    "réflexe anatomopathologie.md",
-    "réflexe neurologie.md",
-    "réflexe pediatrie.md",
-    "réflexe pharmacologie.md",
-    "réflexe pour orientation.md",
-    "réflexe renale.md",
-    "réflexe urgence.md",
-    "Untitled 28.md",
-    "cas_clinique_1_clinique_2019.md",
+    "Artériopathie Oblitérante des Membres Inférieurs (AOMI).md",
+    "Maladie de Léo Buerger (Thrombo Angéite Oblitérante).md",
+    "thrombo angéite oblitérante.md",
+    "clinique_2015.md",
+    "cas_clinique_2024_5.md",
+    "pseudo-polyarthrite rhizomélique (PPR).md",
+    "artérites à cellules géantes (ACG).md",
+    "cas_clinique_2024_3.md",
+    "Classification de Cauchoix et Duparc.md",
+    "cas_clinique_2024_2.md",
+    "cas_clinique_2024_1.md",
+    "Trisomie 11.md",
+    "cas_clinique_2023_5.md",
+    "Hypersensibilité de type I.md",
+    "cas_clinique_8_clinique_2013.md",
+    "Choc Septique.md",
+    "États de Choc.md",
+    "Mycose.md",
     "12-_Gynécologie-Obstétrique.pdf",
     "Sujets Résidanat -20260506T082408Z-3-001.zip",
     "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/sauvegarde_fiches.zip",

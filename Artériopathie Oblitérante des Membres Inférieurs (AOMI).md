@@ -38,7 +38,7 @@ Les examinateurs ciblent précisément la hiérarchie des examens :
 
 ### 4. Prise en charge et Pièges Thérapeutiques ⚠️
 
- **LDL cible<0.55g/l.**
+ **LDL cible <0.55g/l.**
  
 - **Le Traitement médical initial :** Chez un patient au Stade I ou II (claudicant), le traitement de base repose sur un **programme actif de sevrage tabagique et le renforcement de la marche**, associé au contrôle des facteurs de risque.
 - **La Revascularisation (Pontage ou Angioplastie) :** Elle est indiquée en cas d'**échec du traitement médical** ou d'ischémie évoluée.
