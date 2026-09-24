@@ -387,3 +387,240 @@
 - Face à l'hyperkaliémie sévère à $6,8\text{ mmol/l}$, le traitement d'extrême urgence **n'est pas de faire baisser immédiatement le potassium**, mais de **protéger le cœur** contre une arythmie fatale. Le **Gluconate de Calcium** injecté par voie intraveineuse directe antagoniste les effets cardiaques de l'hyperkaliémie en stabilisant le potentiel de membrane des cellules myocardiques
 
 - **Metformine** (antidiabétique oral) est éliminée **exclusivement** par voie rénale,  En cas d'insuffisance rénale aiguë ou chronique sévère, elle s'accumule massivement dans l'organisme. Cette accumulation **bloque** la **néoglucogenèse mitochondriale** et favorise une production excessive d'acides, conduisant à une **acidose lactique**
+
+
+### [[torsion]]
+- Chez un adolescent de 17 ans, toute douleur scrotale aiguë d'apparition brutale est une **torsion du cordon spermatique** jusqu'à preuve du contraire
+- À la phase initiale d'une torsion (3 heures d'évolution), la bourse garde un aspect cutané normal ; les **signes inflammatoires locaux** (chaleur, œdème, érythème scrotal) n'apparaissent que tardivement, lorsque l'ischémie progresse vers la nécrose
+- diagnostic de torsion soit purement **clinique** et qu'aucun examen ne doive retarder l'exploration chirurgicale en cas de suspicion franche, l'**écho-Doppler testiculaire** est l'examen d'imagerie de référence. 
+
+- ==Après une torsion, le risque **principal est l'atrophie** (hypotrophie) du testicule concerné due à l'ischémie initiale
+
+### [[infections néonatales précoces]] / [[Pyélonéphrite]]
+
+- Chez le nourrisson, **toute** infection urinaire **fébrile** est considérée comme une **pyélonéphrite aiguë**. La cystite (infection basse) est par définition **apyrexique** et ne s'accompagne pas d'un tel syndrome inflammatoire biologique. 
+
+- La chirurgie **n'a aucune** place en première intention lors d'un reflux vésico-urétéral de bas grade (grade II)
+
+- **Grade II :** Le reflux atteint l'uretère, le bassinet et les calices, **sans aucune dilatation**.
+
+
+### [[Myélome Multiple (maladie de Kahler)]]
+
+- La scintigraphie osseuse  est **inutile** dans le myélome car elle explore l'activité ostéoblastique (remodelage), alors que les lésions du myélome sont purement ostéoclastiques (lytiques "froides"). On lui préfère les radiographies standards, le scanner ou l'IRM
+- Le myélome se caractérise par un pic monoclonal d'**IgG ou d'IgA**
+
+
+### [[macroglobulinémie de Waldenström]]
+
+- les ==douleurs osseuses sont rares==, plutôt dans le **Myélome Multiple (maladie de Kahler)**. 
+    - La macroglobulinémie donne un syndrome d’**hyperviscosité**.
+
+- **Myélogramme :** Il met en évidence une **infiltration lymphoplasmocytaire** médullaire polymorphe.
+
+- La maladie de Waldenström est un lymphome lymphoplasmocytaire avec sécrétion d'une **IgM monoclonale**. 
+
+- IgM monoclonale est souvent une **IgM 7S (pentamérique)**  
+
+- La protéine de Bence Jones (chaînes légères urinaires) est **absente**
+
+
+### [[Cirrhose]] / [[Cirrhose hépatique]]
+
+-  cirrhose **n'est pas** une simple stéatose ou une nécrose parcellaire isolée
+    -  Elle est définie par l'association d'une **fibrose diffuse et annulaire**, de **nodules de régénération** hépatocytaires et d'une destruction du parenchyme.
+
+- **Tout nodule supérieur à 1 cm apparaissant sur un foie de cirrhose est un Carcinome Hépatocellulaire (CHC)** jusqu'à preuve du contraire
+
+- Toute ascite de nouvelle apparition (première poussée) impose une **ponction d'ascite diagnostique**
+
+- Les transaminases (ASAT/ALAT) ou la créatininémie **ne font pas** partie du score de Child-Pugh.
+
+-  ==La **_thrombose de la veine cave inférieure_** n'est pas une complication classique ou directe de la cirrhose.
+
+### [[Hypertension Intracrânienne (HTIC)]]
+
+- Angio-IRM ou l'angio-scanner cérébral doit impérativement et systématiquement éliminer une **thrombose veineuse cérébrale (phlébite cérébrale)**
+
+- Le nerf abducens (VI) innerve le muscle droit latéral, responsable de l'abduction de l'œil sa paralysie  entraine un strabisme convergent au repos (**déviation interne de l'œil**)
+
+- **Pression intracrânienne physiologique (PIC) = 10-12 mmHg**
+
+- Ne jamais pratiquer de **ponction lombaire (PL)** devant une suspicion d'HTIC liée à une masse (tumeur, abcès, hématome) avant d'avoir une imagerie, en raison du risque de provoquer un engagement cérébral. _Exception : l'HTIC idiopathique où la PL est diagnostique et thérapeutique après imagerie normale
+
+-  **Engagement temporal (hernie tentorielle) :** Se traduit par des troubles de la conscience, une **mydriase homolatérale** (compression du III) et une décérébration.
+
+### [[cancer de l'endomètre]]
+
+- La pilule œstroprogestative est au contraire un **facteur protecteur** du cancer de l'endomètre. La ménopause à 49 ans n'est pas tardive 
+
+- Le FCU ( est un examen de dépistage du col de l'utérus et non de l'endomètre
+
+- Outil G8 est validé en oncologie chez les patients âgés de **70 ans ou plus**
+
+- une ménopause tardive  est $> 55$ ans. 
+
+- Tout saignement d'origine utérine survenant en dehors des règles (et ici, _a fortiori_ après la ménopause) est défini comme des **métrorragies** 
+
+
+### [[Pancréatite]]
+
+- Selon la classification moderne d'Atlanta révisée, la pancréatite aiguë est classée en 3 grades : **bénigne/légère** (pas d'insuffisance d'organe ni de complication locale), **gravité intermédiaire/modérément sévère** (présence d'une défaillance d'organe transitoire < 48h et/ou de complications locales/systémiques) et grave (défaillance d'organe persistante > 48h).
+
+- TDM injectée **(72 a 96 hr)** est l'examen de référence pour évaluer la gravité (signes de nécrose, coulées). 
+    - La lipasémie est un bon marqueur biologique mais pas  pour la gravité.
+
+- La douleur épigastrique a une caractéristique qui est **transfixiante vers le dos**.
+
+- **Triade de Charcot :** Douleur HP droit + Fièvre + Ictère = Angiocholite aiguë.
+
+
+### [[grossesse]]
+
+- Les molécules de première intention validées chez la femme enceinte sont l'**Alpha-méthyl-dopa** (action centrale), la **Nicardipine** (inhibiteur calcique) ou le Labétalol 
+
+- Les diurétiques  sont formellement **contre-indiqués** (sauf OAP) car ils aggravent l'hémoconcentration et l'hypovolémie vraie de la pré-éclampsie. 
+ 
+- **Aspirine à faible dose (100–150 mg/j) initiée obligatoirement au cours du 1er trimestre**
+    - L'aspirine  se prescrit en prévention _avant_ 16 SA, elle n'a plus d'efficacité curative au stade de crise à 32 SA.
+
+- Corticothérapie indispensable à **32 SA** pour accélérer la maturation pulmonaire fœtale en prévision d'une naissance prématurée imminente (Bétaméthasone : 2 injections de 12 mg à 24h d'intervalle IM).
+
+- Chez une patiente atteinte de **Lupus Érythémateux Systémique** avec antécédent de pré-éclampsie sévère, **les œstrogènes sont formellement contre-indiqués** 
+
+### [[Acromégalie]]
+
+- **exophtalmie bilatérale**  est une complication typique d'une **hyperthyroïdie** par **maladie de Basedow** (orbitopathie basedowienne), **pas** de l'acromégalie
+
+- Le diabète de l'acromégalie est **secondaire** à l'effet diabétogène de la GH (qui induit une insulinorésistance majeure)
+
+- Le diagnostic biologique de certitude de l'acromégalie repose sur :
+    - Le dosage de l'**IGF-1 sérique à jeun** (qui reflète l'intégration de la sécrétion de GH sur 24h et s'avère élevée pour l'âge). 
+    - L'absence de freinage de la sécrétion de GH (qui reste **> 1 µg/l**) lors d'un test d'**Hyperglycémie Provoquée par Voie Orale (HGPO)**
+
+
+### [[Cirrhose]]
+- contrairement aux facteurs II, VII, IX, X, le **Facteur V**  ne dépend pas de la vitamine K et reflète fidèlement la seule fonction hépatocytaire.
+
+
+- Association à l'électrophorèse des protéines sériques d'une **hypergammaglobulinémie** polyclonale marquée et de la présence à un titre élevé d'**anticorps anti-muscles lisses** (spécificité anti-actine) pose la signature biologique de l'**Hépatite Auto-Immune (HAI) de type 1 **.
+
+- Infection Spontanée du Liquide d'Ascite (ILA) est définie histologiquement par un taux de **Polnucléaires Neutrophiles (PNN) $> 250/\text{mm}^3$ (ou $\text{mL}$)**
+
+
+### [[Grossesse extra utérine (GEU)]]
+
+- Les signes indirects évocateurs d'une GEU à l'échographie sont la **vacuité utérine** (absence de vrai sac gestationnel dans la cavité), la présence d'un **pseudo-sac intra-utérin** (collection liquidienne centrale due au saignement décidual) et l'identification d'un **hémopéritoine / épanchement dans le cul-de-sac de Douglas**
+
+- La GEU rompue avec instabilité hémodynamique est une **urgence chirurgicale de bloc opératoire immédiate**
+
+
+### [[cancer de l'amygdale]]
+
+-  l'apparition du **trismus** signe l'infiltration tumorale profonde de l'espace ptérygo-mandibulaire ou des muscles masticateurs (ptérygoïdiens). Toute invasion de ces structures classe d'emblée la tumeur en **T4a** (maladie localement avancée).
+
+
+- confirmation de certitude de toute lésion tumorale suspecte accessible en ORL repose exclusivement sur l'**examen anatomo-pathologique de fragments prélevés par biopsie de la lésion** . Contrairement au **fibrome nasopharyngien** de l'adolescent, la biopsie est ici le geste de première intention indispensable.
+
+- **hypertension artérielle** est une comorbidité cardiovasculaire sans **aucun lien de causalité** avec l'oncogenèse des voies aéro-digestives supérieures (VADS)
+
+- Les cancers de l'amygdale se propagent localement, lymphatiquement au cou, et donnent des métastases à distance **préférentiellement** dans le thorax **(poumon)** et l'abdomen **(foie)
+
+- **sclérodermie** est une maladie systémique **auto-immune**, elle **ne peut en aucun cas** être provoquée par un **traitement médical (chimiothérapie et radiothérapie)**. À l'inverse, la radiothérapie cervicale induit une destruction des glandes salivaires (xérostomie / sécheresse buccale définitive), une inflammation muqueuse aiguë ou **mucite**, une ostéoradionécrose mandibulaire (toxicité osseuse), tandis que le Cisplatine expose à une néphrotoxicité sévère (toxicité rénale) 
+
+
+### [[Néoplasie Endocrinienne Multiple (NEM)]]
+
+- diagnostic biologique de certitude du phéochromocytome repose sur le **dosage des dérivés méthoxylés (métanéphrines et normétanéphrines)** 
+- NEM 2 est une maladie génétique héréditaire à **transmission autosomique dominante**, liée à une mutation activatrice de l'**oncogène RET**
+
+- Face à une NEM 2, il faut **impérativement** opérer le **phéochromocytome** (nodule surrénalien) **AVANT** le **cancer de la thyroïde 
+
+- NEM de type 2A (syndrome de Sipple) associe classiquement : un **cancer médullaire de la thyroïde**, un **phéochromocytome** et une **hyperparathyroïdie primitive** (due à une hyperplasie des parathyroïdes). Il faut donc impérativement doser la calcémie et la PTH à la recherche d'un **trouble du métabolisme phosphocalcique**
+
+### [[Phéochromocytome]]
+
+- Le traitement curatif est strictement **chirurgical**, réalisé après une préparation médicale indispensable par des alpha-bloquants pour stabiliser la tension.
+
+- Il peut se manifester par une **hypertension artérielle (HTA) paroxystique ou permanente**
+
+- Imagerie sert à localiser la tumeur, mais la certitude diagnostique d'un phéochromocytome est **purement** biologique (sécrétion hormonale)
+    - source de sécrétion des **Catécholamines** se situe exclusivement au niveau de la **médullosurrénale**
+
+- une élévation des catécholamines urinaires chez un enfant avec une masse abdominale, il faut évoquer le phéochromocytome, mais aussi son grand diagnostic différentiel : le **Neuroblastome**.
+
+- phéochromoblastes ont pour origine embryonnaire la **crête neurale**.
+
+### [[Acidocétose Diabétique (ACD)]]
+
+- **effort physique excessif**  expose plutôt à des accidents d'**hypoglycémie** chez le patient diabétique
+
+-  On ne doit **jamais** arrêter une perfusion d'insuline intraveineuse continue sans avoir préalablement réalisé une imprégnation d'insuline par voie sous-cutanée
+    - injection sous-cutanée doit être faite **30 minutes avant l'arrêt de la perfusion**  
+
+- utilisation de **sérum bicarbonaté** est **formellement proscrite** pour un pH à $7,25$. Elle est réservée uniquement aux acidoses extrêmes menaçant le pronostic vital immédiat ($\text{pH} < 6,90$), 
+
+- **Avant** de perfuser de l'insuline, le risque majeur est l'**hypokaliémie** foudroyante par transfert intracellulaire du potassium. Il est donc obligatoire de disposer immédiatement d'un **ionogramme sanguin**
+
+-  définition biologique stricte de l'acidocétose diabétique repose sur une Hyperglycémie > **2,5 g/L** , pH artériel < **7,30**, bicarbonates < **15 mmol/L**, **cétonurie massive**
+
+- Acidose métabolique à Trou Anionique **ÉLEVÉ** > 16
+    - **acidose tubulaire rénale proximale**  est une acidose métabolique à trou anionique **NORMAL**
+
+
+### [[Cancer du rectum]]
+
+- 'infection par le virus **HPV** est un facteur de risque pour le **cancer de l'anus** (carcinome épidermoïde), mais n'est pas le facteur principal pour l'adénocarcinome du rectum.
+
+- Pour un stade **ypT3N2** (envahissement ganglionnaire) avec mauvaise réponse au traitement néoadjuvant, le risque de récidive à 5 ans est **environ 50 %**.
+
+-  Le stade **cT3N2M0** est un cancer du rectum **localement avancé** (tumeur franchissant la musculeuse, envahissant la graisse péri-rectale, avec atteinte ganglionnaire).
+
+- **amputation abdomino-périnéale de Miles** est réservée aux tumeurs du rectum inférieur (< 5 cm de la marge anale) ou en cas d'atteinte sphinctérienne.
+    - **exérèse partielle du mésorectum**  est indiquée pour les tumeurs du rectum supérieur 
+
+- TDM ne **confirme pas le diagnostic** (celui-ci repose sur l'histologie) 
+
+### [[cancer de l'anus]] 
+
+-  Représente environ **1% a 2%** des cancers digestifs  (RARE)
+
+-  L'infection à Human Papilloma Virus est le facteur étiologique le plus important  
+
+-  Peut être révélé par une adénopathie inguinale  
+
+-  Les formes peu invasives sont traitées par radiothérapie exclusive  
+
+-  Est **essentiellement** de type épidermoïde
+
+### [[diabète gestationnel]]
+
+- **Microalbuminurie** est définie par une protéinurie des 24h comprise entre **30 et 300 mg/24h**.
+    - protéinurie est à **680 mg/24h**, ce qui correspond à une **protéinurie patente** (**macroalbuminurie**) et non à une microalbuminurie.
+
+- apport de **1 200 calories** est insuffisant pour une grossesse (risque de cétose et de retard de croissance intra-utérin).
+
+- **IEC** (Ramipril) et les **ARA II** (Irbesartan) sont **contre-indiqués** pendant la grossesse
+
+- Les **sulfamides hypoglycémiants** sont formellement **contre-indiqués** **pendant** la grossesse en raison d'un **risque tératogène** (hypoglycémie néonatale, malformations) et d'un **passage placentaire
+    - Les recommandations internationales préconisent l'**insulinothérapie intensive** (schéma basal-bolus avec analogues rapides et lents) pendant la grossesse pour obtenir un contrôle glycémique optimal et réduire les risques fœtaux. 
+
+- **macrosomie** et **cardiopathies congénitales** sont complication du diabète gestationnel 
+     - **Retard de croissance intra-utérin** est une complication du **néphropathie diabétique**  
+
+
+### [[Diarrhée Aiguë]]
+
+-  ration de base d'un nourrisson de 4 mois est de **100 mL/kg/24h**.
+
+- traitement de la diarrhée aiguë chez le nourrisson est avant tout **symptomatique** et repose sur la **réhydratation orale**
+    - allaitement maternel doit être **poursuivi** pendant l'épisode diarrhéiqu 
+
+- (diarrhée aiguë aqueuse, fébrile, début brutal, sans signes de dysenterie, associée à une rhinopharyngite) est typique d'une **diarrhée virale**, le plus souvent à Rotavirus chez le nourrisson.
+
+
+- la réhydratation d'entretien et la correction des pertes en cours se font avec des **sels de réhydratation orale (SRO)**, qui contiennent du **glucose, du sodium, du potassium et du citrate**, adaptés aux pertes digestives.
+
+- La première phase de réhydratation chez un nourrisson en choc consiste à perfuser du SSI 0,9 % à raison de **30 mL/kg en 1 heure** ou **20 à 30 mL/kg en 30 minutes à 1 heure**, renouvelable
+
+- Absence de diurèse après 2 heures de réhydratation indique une perfusion insuffisante. La conduite à tenir est d'administrer un **bolus supplémentaire de 10 à 20 mL/kg de SSI 0,9 %** en 30 minutes.

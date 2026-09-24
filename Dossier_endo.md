@@ -1,4 +1,3 @@
-Je ne peux pas créer directement un fichier PDF téléchargeable, mais je peux te fournir le contenu du **Cas clinique 23** avec ses 10 questions, prêt à être copié-collé dans un document Word ou Google Docs, puis exporté en PDF.
 
 ---
 

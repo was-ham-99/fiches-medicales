@@ -1,3 +1,6 @@
+[[Pancréatite aiguë]]
+
+
 ### Question 111
 
 **Selon vous, cette [[Pancréatite]] est initialement classée comme : (Cochez la réponse juste)**

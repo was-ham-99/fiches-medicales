@@ -67,7 +67,7 @@ A ($1+2$) / B ($2+3$) / C ($1+5$ ) / D ($3+5$) / E ($3+4$)
 - **💡 Explication :** Un cortisol à 8h isolé (1) n'a aucune valeur car il peut être élevé à cause du stress. L'ACTH (2) sert au diagnostic étiologique et non positif. Pour affirmer un syndrome de Cushing, on utilise des tests de screening : la **perte du rythme nychtéméral du cortisol** (le cortisol de minuit reste anormalement élevé, proche de celui du matin) (3), le **test de freinage minute ou faible** (le cortisol ne s'effondre pas malgré l'apport de corticoïdes de synthèse) (4, 5) ou le Cortisol Libre Urinaire des 24h (CLU).
     
 
-106/ Le bilan biologique confirme l'hypercorticisme endogène non freinable avec un CLU élevé à $535,8\text{ nmol/24h}$ et une ACTH effondrée à $1,47\text{ pg/ml}$. Quels examens d'imagerie devez-vous réaliser pour le diagnostic étiologique ? _Cocher la réponse juste_
+### 106/ Le bilan biologique confirme l'hypercorticisme endogène non freinable avec un CLU élevé à $535,8\text{ nmol/24h}$ et une ACTH effondrée à $1,47\text{ pg/ml}$. Quels examens d'imagerie devez-vous réaliser pour le diagnostic étiologique ? _Cocher la réponse juste_
 
 A. Une IRM hypophysaire d'emblée B. Un examen ophtalmologique complet avec champ visuel C. Une imagerie abdominale centrée sur les surrénales (TDM/Scanner ou IRM) D. Un test de freinage fort E. Un cathétérisme des sinus pétreux inférieurs
 
