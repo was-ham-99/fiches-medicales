@@ -65,7 +65,7 @@
 
 - **Concepts clés :** Le **carcinome médullaire de la [[thyroïde]]** est une tumeur maligne développée à partir des cellules C (parafolliculaires). Il est caractérisé par une prolifération en **nids et travées** au sein d'un **stroma amyloïde**.
     
-- **Piège :** L'**amylose** (dépôt de protéine amyloïde) est la clé du diagnostic. Les autres carcinomes thyroïdiens n'en présentent pas.
+- **Piège :** L'**[[Amylose]]** (dépôt de protéine amyloïde) est la clé du diagnostic. Les autres carcinomes thyroïdiens n'en présentent pas.
     
 
 **9. Réponse : B. CD45 – CD20 – CD3**

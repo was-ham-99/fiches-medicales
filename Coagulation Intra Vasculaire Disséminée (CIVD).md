@@ -8,3 +8,5 @@
 - **Chute du [[Facteur I (fibrinogène)]]** et d'un **allongement des temps de coagulation (TQ, TCA)**
 
 - **Compliation** de la **malaldie de still** ou **HRP**
+
+

@@ -36,7 +36,7 @@ L'identification de l'auto-anticorps spécifique est la question la plus fréque
 | **[[Polyarthrite Rhumatoïde (PR)]]**                             | **Anti-CCP** (ACPA) (stade précoce)           |                                |
 | **[[Syndrome de Sharp]]**                                        | **Anti-RNP**                                  |                                |
 | **[[Sclérodermie systémique]]**                                  | **Anti-centromère**                           |                                |
-| **Maladie Cœliaque**                                             | **Anti-transglutaminase tissulaire (IgA)**    | oesophage des primates (singe) |
+| **[[Maladie cœliaque]]**                                         | **Anti-transglutaminase tissulaire (IgA)**    | oesophage des primates (singe) |
 | **Maladie de Basedow**                                           | **Anti-récepteur de la TSH** (TRAK/TSI)       | Thyroide de primates           |
 | **[[Thyroïdite de Hashimoto]]**                                  | **Anti-TPO** (thyroperoxydase)                | Thyroide de primates           |
 | **Anémie de Biermer**                                            | **Anti-facteur intrinsèque**                  |                                |

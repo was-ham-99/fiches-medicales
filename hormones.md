@@ -1,5 +1,5 @@
  - testostérone possède un noyau **androstane** de **19 atomes de carbone** (C19). (B) **Vrai.** Un déficit en testostérone en période fœtale peut entraîner une **cryptorchidie** (défaut de descente des testicules). (C) **Vrai.** C'est le principal androgène circulant et le plus actif chez l'homme.
- -  progestérone est un précurseur commun à toutes les hormones stéroïdes. Elle est notamment l'intermédiaire obligatoire pour la synthèse de l'**aldostérone** (via la 11-désoxycorticostérone) et du cortisol.
+ -  Progestérone est un précurseur commun à toutes les hormones stéroïdes. Elle est notamment l'intermédiaire obligatoire pour la synthèse de l'**aldostérone** (via la 11-désoxycorticostérone) et du cortisol.
     - **Analyse des options :** (B) Faux, elle est augmentée pendant la phase lutéale. (C) Faux, sa chute (avec celle des œstrogènes) annonce l'accouchement. (D) Faux, elle possède un noyau prégnane de 21 atomes de carbone.
 -  La voie de biosynthèse du cortisol est : Cholestérol → Pregnénalone → Progestérone → ... → Cortisol. La progestérone est bien un intermédiaire obligatoire.
     - **Analyse des options :** (A) Rythme circadien (pic le matin). (B) Noyau prégnane (C21). (C) Synthèse dans la zone fasciculée. (D) Dérive du cholestéro
@@ -47,7 +47,7 @@ C’est le chef d’orchestre du système endocrinien.
 
 ### 4. Régulation de la Glycémie et Hormones Digestives 🍏
 
-- **Insuline :** Seule hormone **hypoglycémiante**, anabolisante, favorisant la glycogenèse et inhibant la néoglucogenèse. Elle est sécrétée par les **cellules B** (centrales) des îlots de Langerhans.
+- **[[insuline]] :** Seule hormone **hypoglycémiante**, anabolisante, favorisant la glycogenèse et inhibant la néoglucogenèse. Elle est sécrétée par les **cellules B** (centrales) des îlots de Langerhans.
 - **Glucagon :** Hormone hyperglycémiante, sécrétée par les cellules A (périphériques).
 - **Incrétines (GLP-1) :** Hormones intestinales stimulant la sécrétion d'insuline après ingestion de glucose.
 

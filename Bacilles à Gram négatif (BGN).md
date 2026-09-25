@@ -26,7 +26,7 @@ Ce sont des hôtes normaux ou pathogènes du **tube digestif**.
 
 ### 3. BGN Non Fermentants et Infections Nosocomiales 🏥
 
-- **Pseudomonas aeruginosa :** Germe opportuniste par excellence, il est naturellement résistant à de nombreux antibiotiques et très fréquent dans les infections acquises à l'hôpital.
+- **[[Pseudomonas aeruginosa]] :** Germe opportuniste par excellence, il est naturellement résistant à de nombreux antibiotiques et très fréquent dans les infections acquises à l'hôpital.
 - **Acinetobacter :** Également impliqué dans les infections nosocomiales multi-résistantes.
 
 ### 4. ==Septicémies et Complications (Réflexes QCM) 🚨

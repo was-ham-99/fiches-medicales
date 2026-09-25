@@ -1,6 +1,6 @@
 ![[frequence_cours_residanat.png]]
 
-### Cytologie
+### Cytologie 
 
 [[Cycle cellulaire]]
 [[Cytosquellete]]
@@ -39,13 +39,11 @@
 - [[protéines plasmatiques]]
 - [[Exploration biochimique]]
 ### PHYSIO
-
-[[Physiologie Respiratoire]]
 [[Physiologie Rénale]]
-[[reflexe medulaire]]
+
 ### Radio
 [[Radiologie]]
-[[Réflexe radiologie]]
+
 ### Microbiologie
 
 - [[Cocci à Gram positif et à Gram négatif]]
@@ -75,7 +73,6 @@
 
 ### IMMUNOLOGIE
 
-- [[États d'Hypersensibilité]] et [[Immunologie]]
 - [[maladies auto-immunes]]
 - [[Tuberculose]]
 
@@ -263,7 +260,7 @@
 - [[Otite moyenne aiguë (OMA)]]
 - [[épistaxis]]
 - [[Cancer du cavum (UCNT)]] / [[Cancer du cavum]]
-- [[Sinusite Maxillaire Aiguë]] / [[Sinusite de l'adulte et l'enfant]]
+
 - [[Angine]] / [[angines]]
 
 
@@ -272,7 +269,6 @@
 
 ## UMC
 
-- [[polytraumatise]]
 - [[États de choc]] / [[États de Choc]]
 - [[Intoxication Aigue]] / 
 - [[insuffisance rénale]]

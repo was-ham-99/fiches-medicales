@@ -11,3 +11,6 @@
 [[Lactate]]
 
 [[coloration histochimique]]
+
+
+[[Cancer du col]]

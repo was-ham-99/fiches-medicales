@@ -3,6 +3,6 @@
 - **[[Diazépam (Valium)]]** , Midazolam Valium, Rivotril
 - Lexomil, lysanxia
 - quand ils sont métabolisés au niveau du foie Ils vont être transformés en l'oxazépam
-- **contre indication** en cas d'asthme (crise) risque **dépression respiratoire**
+- **contre indication** en cas d'[[Asthme]] (crise) risque **dépression respiratoire**
 -  On n'associe **jamais** deux benzodiazépines ou la benzodiazépines à un [[hypnotique]] AD 
 - En Algérie la prescription des benzodiazépines. Elle est sujette à réglementation et les ordonnances **à trois souches.

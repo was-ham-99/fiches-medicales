@@ -24,7 +24,7 @@ La goutte est la conséquence clinique directe de l'hyperuricémie chronique.
 
 L'hyperuricémie est un signe biologique clé dans certaines pathologies génétiques :
 
-- ==**[[Maladie de Von-Giercke (glycogénose de type I)]]**== : Elle associe typiquement une **hypoglycémie** à jeun, une acidose lactique et une hyperuricémie.
+- [[Maladie de Von-Giercke (glycogénose de type I)]] : **Hypoglycémie** , **Acidose lactique** , **Hyperuricémie** .
 - **Physiopathologie (Réflexe QCM) :** Dans cette maladie, l'hyperuricémie résulte de la formation accrue de phosphoribosyl-pyrophosphate et de la compétition entre le **lactate** et l'urate pour l'excrétion urinaire.
 - **Piège :** Une mutation du transporteur **GLUT9** entraîne généralement une _hypouricémie_ et non une hyperuricémie.
 

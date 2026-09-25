@@ -13,3 +13,5 @@
     - **E. Faux.** Le saccharose est abondant dans la betterave et la canne à sucre.
 
 [[glucide]]
+
+[[sucres réducteurs]]

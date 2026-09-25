@@ -112,7 +112,7 @@ DOSSIER
 [[cas_clinique_2025_5_dossier]]
 [[cas_clinique_2025_6_dossier]]
 
-[[Dossier_endo]]
+
 [[Cancer bronchique]]
 
 Samedi 
@@ -136,9 +136,15 @@ COURS  sois Cas sois dossier
 [[Pancréatite]]
 [[Infections urinaires]]
 [[diabète gestationnel]]
-
+[[ÉPILEPSIE]]
 
 
 **Simulation**
+[[Anki]]
 
+[[Biologie_2026]]
 [[Clinique 2026]]
+
+[[Dossier_endo]]
+
+[[kyste hydatique]]

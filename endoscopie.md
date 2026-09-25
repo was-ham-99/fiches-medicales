@@ -18,7 +18,7 @@ La fibroscopie œso-gastro-duodénale est l'examen de référence pour l'explora
 
 ### 2. Endoscopie Digestive Basse (Coloscopie) 💩
 
-- **Cancer Colorectal :** La **coloscopie totale** avec biopsies est l'examen de référence pour le diagnostic et le dépistage, notamment dans le syndrome de Lynch.
+- ==**Cancer Colorectal :**== La **coloscopie totale** avec biopsies est l'examen de référence pour le diagnostic et le dépistage, notamment dans le syndrome de Lynch.
 - **Polypectomie :** Elle permet l'exérèse de polypes à l'anse diathermique. Des consignes strictes doivent être respectées (préparation parfaite, TP > 50%, plaquettes > 50 000, arrêt des anticoagulants).
 - **MICI (Crohn et RCUH) :** L'iléo-coloscopie permet de visualiser les lésions (ulcérations serpigineuses, aspect en pavage) et de réaliser des biopsies pour confirmer le diagnostic.
 

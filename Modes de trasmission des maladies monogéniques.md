@@ -26,7 +26,7 @@ Dans ce mode, la présence d'un seul allèle muté suffit pour que la maladie s'
     - [[MALADIE DE HUNTINGTON (chorée de Huntington)]] (mutation instable) 
     - **[[Neurofibromatose de Recklinghausen]]** ,
     - **[[BRACHYDACTYLIE]]** , 
-    - l'**[[Achondroplasie]]** ,
+    - [[Achondroplasie]] ,
     - [[HYPERCHOLESTEROLEMIE FAMILIALE]] et 
     - Le cancer médullaire de la thyroïde (mutation du gène RET) [[Cancer du sein]], [[Cancer du côlon]], [[Rétinoblastome]].
 
@@ -74,7 +74,7 @@ Certaines maladies ne suivent pas les lois classiques de Mendel.
 - **Hérédité Mitochondriale :** La transmission est **maternelle exclusive**. Une mère transmet son ADN mitochondrial à tous ses enfants, mais seuls les garçons ne le transmettent pas à leur descendance.
     - **Exemple :** L'**atrophie optique de Leber** et le syndrome MELAS.
 - **Expansion de triplets (Anticipation) :** La maladie s'aggrave (plus précoce ou plus sévère) de génération en génération.
-    - **Exemple :** La **maladie de Huntington**, le syndrome de l'X fragile et la maladie de Steinert.
+    - **Exemple :** La **[[MALADIE DE HUNTINGTON (chorée de Huntington)]]**, le syndrome de l'X fragile et la maladie de Steinert.
 - **Empreinte Génomique Parentale :** Le gène est fonctionnellement haploïde (un seul allèle s'exprime selon l'origine parentale).
 
 ### 💡 Réflexes QCM pour le Résidanat
