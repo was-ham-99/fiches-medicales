@@ -23,12 +23,12 @@ Dans ce mode, la présence d'un seul allèle muté suffit pour que la maladie s'
     - **Sexe :** Les hommes et les femmes sont atteints avec une fréquence quasi égale.
     - **Cas particulier :** Si deux conjoints sont atteints de la même maladie AD (hétérozygotes), la probabilité d'avoir un enfant **sain** est de **1/4**.
 - **Exemples de maladies :** 
-    - [[MALADIE DE HUNTINGTON (chorée de Huntington)]] (mutation instable) 
+    - ==[[MALADIE DE HUNTINGTON (chorée de Huntington)]] (mutation instable) 
     - **[[Neurofibromatose de Recklinghausen]]** ,
     - **[[BRACHYDACTYLIE]]** , 
     - [[Achondroplasie]] ,
     - [[HYPERCHOLESTEROLEMIE FAMILIALE]] et 
-    - Le cancer médullaire de la thyroïde (mutation du gène RET) [[Cancer du sein]], [[Cancer du côlon]], [[Rétinoblastome]].
+    - Le cancer médullaire de la thyroïde (mutation du gène RET) [[Cancer du sein]], [[Cancer du côlon]],==[[Rétinoblastome]].
 
 #### 2. [[Transmission Autosomique Récessive (AR)]] 🤝
 

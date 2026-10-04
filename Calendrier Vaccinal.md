@@ -5,7 +5,7 @@
  **2 mois / 4 mois / 12 mois** : DTCa + HBV + polio oral et **injectable**  + anti pneumo
  **11 et 18 mois** : ROR
 
-nouveaute de vaccination est l ajout de polio injectable 2 4 12 et 6 ans
+**nouveaute de vaccination est l ajout de polio injectable 2 4 12 et 6 ans**
 
 **À la naissance (Maternité)**
 

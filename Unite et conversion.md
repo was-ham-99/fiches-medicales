@@ -37,13 +37,13 @@ Voici les facteurs de conversion directs pour les examens de santé les plus cou
 
 ## 📋 Tableau de conversion pour les analyses courantes
 
-|Substance|Masse Molaire (M)|Formule de conversion directe|Exemple|
-|---|---|---|---|
-|Glucose (Glycémie)|~180,16 g/mol|g/L = mmol/L ÷ 5,55|5,5 mmol/L = 1,0 g/L|
-|Cholestérol (Total, HDL, LDL)|~386,65 g/mol|g/L = mmol/L ÷ 2,586|5,0 mmol/L = 1,93 g/L|
-|Triglycérides|~885,4 g/mol|g/L = mmol/L ÷ 1,13|1,5 mmol/L = 1,33 g/L|
-|Créatinine|~113,12 g/mol|g/L = mmol/L ÷ 8,84|0,08 mmol/L = 0,009 g/L _(souvent en mg/L)_|
-|Urée|~60,06 g/mol|g/L = mmol/L ÷ 16,65|5,0 mmol/L = 0,30 g/L|
+| Substance                     | Masse Molaire (M) | Formule de conversion directe | Exemple                                     |
+| ----------------------------- | ----------------- | ----------------------------- | ------------------------------------------- |
+| Glucose (Glycémie)            | ~180,16 g/mol     | g/L = mmol/L ÷ 5,55           | 5,5 mmol/L = 1,0 g/L                        |
+| Cholestérol (Total, HDL, LDL) | ~386,65 g/mol     | g/L = mmol/L ÷ 2,586          | 5,0 mmol/L = 1,93 g/L                       |
+| Triglycérides                 | ~885,4 g/mol      | g/L = mmol/L ÷ 1,13           | 1,5 mmol/L = 1,33 g/L                       |
+| Créatinine                    | ~113,12 g/mol     | g/L = mmol/L ÷ 8,84           | 0,08 mmol/L = 0,009 g/L _(souvent en mg/L)_ |
+| Urée                          | ~60,06 g/mol      | g/L = mmol/L ÷ 16,65          | 5,0 mmol/L = 0,30 g/L                       |
 
 ---
 

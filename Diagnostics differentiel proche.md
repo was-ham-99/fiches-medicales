@@ -25,4 +25,4 @@
 - brucellose serologie de wright
 
 ### angore instable et nstemi
-angor instable est une
+angor instable 

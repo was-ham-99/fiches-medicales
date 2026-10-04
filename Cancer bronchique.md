@@ -17,7 +17,7 @@
 
 
 **Diagnostic a evoquer**
-- Cancer du poumon
+- [[Cancer du poumon]]
 - Kyste hydatique
 
 **Diagnostic**

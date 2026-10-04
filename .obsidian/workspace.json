@@ -6,6 +6,7 @@
       {
         "id": "7c64158310813091",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "bffdd9e2566e7f5f",
@@ -144,13 +145,28 @@
               "icon": "lucide-file",
               "title": "Clinique 2026"
             }
+          },
+          {
+            "id": "de78c3ab4968eed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie_2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biologie_2026"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       },
       {
         "id": "3167b83ca6e8d90b",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "72d3ea4f8c9faf42",
@@ -268,6 +284,76 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tuberculose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuberculose"
+            }
+          },
+          {
+            "id": "57ad33f792ff3bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Érysipèle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Érysipèle"
+            }
+          },
+          {
+            "id": "869133c027393756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 87.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 87"
+            }
+          },
+          {
+            "id": "e09226f5eb9ec563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cirrhose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cirrhose"
+            }
+          },
+          {
+            "id": "e9f3bec3cfc51926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pancréatite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pancréatite"
+            }
+          },
+          {
+            "id": "d98a749b6e41e045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Guide de préparation et méthodologie.md",
                 "mode": "source",
                 "source": false
@@ -275,9 +361,177 @@
               "icon": "lucide-file",
               "title": "Guide de préparation et méthodologie"
             }
+          },
+          {
+            "id": "7cbd7d313ec8e228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innervation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Innervation"
+            }
+          },
+          {
+            "id": "8c1ce1288959313b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inflammation granulomateuse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inflammation granulomateuse"
+            }
+          },
+          {
+            "id": "3f87f3152b92121e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pneumoconiose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pneumoconiose"
+            }
+          },
+          {
+            "id": "824fe1afe8810879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhumatisme Articulaire Aigu (RAA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rhumatisme Articulaire Aigu (RAA)"
+            }
+          },
+          {
+            "id": "453d1e798c6af06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuberculose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuberculose"
+            }
+          },
+          {
+            "id": "d4b8ead9ba416f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insuffisance cardiaque (IC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insuffisance cardiaque (IC)"
+            }
+          },
+          {
+            "id": "39d21aff17c03147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertension artérielle (HTA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypertension artérielle (HTA)"
+            }
+          },
+          {
+            "id": "8dad14d3944d4aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faux indices vs vrais indices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faux indices vs vrais indices"
+            }
+          },
+          {
+            "id": "af4ad6c6c4b82106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 124.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 124"
+            }
+          },
+          {
+            "id": "61a7c24c3d9c3776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hématome Rétro-Placentaire (HRP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hématome Rétro-Placentaire (HRP)"
+            }
+          },
+          {
+            "id": "0ba5fd9033d7efa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sepsis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sepsis"
+            }
+          },
+          {
+            "id": "f79f717cdb00bca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Choriocarcinome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Choriocarcinome"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -353,7 +607,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie_2019.md",
+                "file": "Sepsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -428,7 +682,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 225.3172607421875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -442,34 +696,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7181b3101e86375c",
+  "active": "0ba5fd9033d7efa0",
   "lastOpenFiles": [
-    "Acétylcholine.md",
-    "biologie_2019.md",
-    "Embryologie.md",
-    "Biologie_2026.md",
-    "Guide de préparation et méthodologie.md",
-    "Anki.md",
-    "ÉPILEPSIE.md",
-    "Diazépam (Valium).md",
-    "Benzodiazépine.md",
-    "Asthme.md",
-    "Granulomatose avec Polyangéite (GPA).md",
-    "Hyperéosinophilie.md",
-    "réflexe pour orientation.md",
-    "réflexe pharmacologie.md",
-    "Antiépileptiques.md",
-    "hypnotique.md",
-    "Antipsychotique.md",
-    "spina bifida.md",
-    "alpha‑foetoprotéine.md",
-    "trisomie 21 (Syndrome de Down).md",
-    "Caryotype.md",
-    "Maladies chromosomiques.md",
-    "clinique_2016.md",
-    "développement psychomoteur.md",
-    "Untitled 69.md",
-    "bêta-mimétiques.md",
+    "Insuffisance rénale.md",
+    "Sepsis.md",
+    "Untitled 133.md",
+    "Choc Septique.md",
+    "Hémoculture.md",
+    "Infection néonatale bactérienne.md",
+    "Grossesse extra utérine (GEU).md",
+    "cas_clinique_6_dossier_2019.md",
+    "Choriocarcinome.md",
+    "Untitled 134.md",
+    "Hématome Rétro-Placentaire (HRP).md",
+    "cas_clinique_5_dossier_2005.md",
+    "Untitled 124.md",
+    "môle hydatiforme.md",
+    "grossesse molaire (Mole hydatiforme).md",
+    "maladies trophoblastiques gestationnelles.md",
+    "Terme absolus (toujours - jamais - uniquement).md",
+    "grossesse.md",
+    "Untitled 128.md",
+    "hémorragies.md",
+    "clinique_2012.md",
+    "Coagulation Intra Vasculaire Disséminée (CIVD).md",
+    "Facteur I (fibrinogène).md",
+    "Purpura Thrombopénique Idiopathique (PTI).md",
+    "splénomégalie.md",
+    "Untitled 127.md",
     "12-_Gynécologie-Obstétrique.pdf",
     "Sujets Résidanat -20260506T082408Z-3-001.zip",
     "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/sauvegarde_fiches.zip",

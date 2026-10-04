@@ -1,0 +1,5 @@
+[[Grossesse extra utérine (GEU)]]
+[[Sepsis]]
+[[Choc Septique]]
+[[Péritonite]]
+[[cas ]]

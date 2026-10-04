@@ -9,7 +9,7 @@ Voici les connaissances stratégiques pour le concours issues de l'analyse des s
 - **Explorations :**
     - **Angiographie à la fluorescéine :** Examen clé pour mettre en évidence les territoires d'ischémie et la fuite de colorant à partir des néovaisseaux.
     - **Échographie en mode B :** Indispensable si les milieux sont opaques (ex: **hémorragie du vitré**) pour éliminer un décollement de rétine associé.
-- **Facteurs d'aggravation :** La rétinopathie peut être aggravée par l'**HTA**, la **grossesse**, la néphropathie diabétique et l'anémie.
+- **Facteurs d'aggravation :** La rétinopathie peut être aggravée par l'**HTA**, la **grossesse**, la [[Néphropathie Diabétique]] et l'anémie.
 
 ### 2. Complications Majeures (Urgences) 🚨
 

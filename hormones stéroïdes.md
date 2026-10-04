@@ -41,7 +41,7 @@ Le cortisol est le principal glucocorticoïde, synthétisé dans la zone fascicu
 
 En raison de leur nature hydrophobe, les hormones stéroïdes circulent dans le sang liées à des protéines :
 
-- **Transporteurs spécifiques :** CBG (Transcortine) pour le cortisol, SHBG pour la testostérone et les œstrogènes.
+- **Transporteurs spécifiques :** **CBG (Transcortine)** pour le **cortisol**, **SHBG** pour la **testostérone et les œstrogènes**.
 - **Transporteur non spécifique :** L'albumine, qui assure le transport de diverses molécules liposolubles.
 - **Fraction active :** Seule la fraction **libre** (non liée aux protéines) est capable de pénétrer dans les cellules cibles pour agir.
 

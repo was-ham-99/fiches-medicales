@@ -33,7 +33,7 @@ L'analyse des annales du concours de résidanat (2002-2025) permet de synthétis
 
 ### 4. Physiologie de l'Unité Motrice ⚡
 
-- **Jonction Neuromusculaire :** Le médiateur est toujours l'**acétylcholine**, qui se fixe sur des récepteurs **nicotiniques** au niveau de la plaque motrice.
+- **Jonction Neuromusculaire :** Le médiateur est toujours l'**[[Acétylcholine]]**, qui se fixe sur des récepteurs **nicotiniques** au niveau de la plaque motrice.
 - **Système Nerveux Autonome :**
     - **Fibres pré-ganglionnaires :** Libèrent de l'acétylcholine (systèmes ortho et para).
     - **Fibres post-ganglionnaires :** Libèrent de la noradrénaline (orthosympathique) ou de l'acétylcholine (parasympathique).

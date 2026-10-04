@@ -4,7 +4,7 @@
 
 
 ### Hypersensibilité 
-- [[Hypersensibilité de type I]] les basophile
+- [[Hypersensibilité de type I]] les basophile et les mas...
 - [[Hypersensibilité de type II]] complexe d'attaque membranaire
 - [[Hypersensibilité de type III]] PNN
 - [[Hypersensibilité de type IV]] TH 1 et macrophage

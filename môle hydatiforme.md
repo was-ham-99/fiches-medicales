@@ -1,3 +1,6 @@
+
+[[grossesse molaire (Mole hydatiforme)]]
+
 Voici une synthèse stratégique parfaitement calibrée pour le résidanat d'Alger, structurée pour répondre précisément aux dossiers cliniques et aux pièges classiques des QCM sur les hémorragies utérines post-molaires et le choriocarcinome.
 
 ---

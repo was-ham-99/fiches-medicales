@@ -9,7 +9,7 @@
 - classe I : absence de crépitants et de B3 ; – 
 - classe II : crépitants remontant jusqu’à mi-champs pulmonaires ou B3 ; – 
 - classe III : crépitants remontant au-delà des mi-champs pulmonaires avec OAP ; – 
-- classe IV : choc cardiogénique.
+- classe IV : **choc cardiogénique.
 
 
 ### [[Artériopathie Oblitérante des Membres Inférieurs (AOMI)]]

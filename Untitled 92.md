@@ -1,0 +1,5 @@
+[[Angiocholite]]
+[[Maladies Inflammatoires Chroniques de l'Intestin (MICI)]]
+[[Maladies Inflammatoires Chroniques de l'Intestin (MICIs)]]
+[[Corticoïde]]
+[[Pancréatite]]

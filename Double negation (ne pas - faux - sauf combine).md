@@ -95,7 +95,7 @@ artère mésentérique inférieure ne participe **pas** à la vascularisation de
 
 ### [[Radiographie du thorax]]
 
-- Ne nécessite PAS de cliché en expiration pour l'insuffisance cardiaque. Le sinus costodiaphragmatique le plus profond est le postérieur (non visible de face)
+- **Ne nécessite PAS** de cliché en expiration pour l'**insuffisance cardiaque**. Le sinus costodiaphragmatique le plus profond est le postérieur (non visible de face)
 -  On parle d’hydro pneumothorax en cas d’effacement totale de l’hémi coupole diaphragmatique par l’opacité pleurale, sinon on parle de pneumothorax avec épanchement pleural liquidien ou réaction pleurale en cas de niveau très bas situé.
 - devant l’aspect d’un hémi thorax ( ou opacité dense, homogène, ) blanc , il faut rechercher les signes indirects : rétraction et attraction pour évoquer l’atélectasie ou bien refoulement et distension homolatérale pour retenir la pleurésie
     - Absence de signes de refoulement en controlatérale veut dire un pleuresie de moyenne abondance

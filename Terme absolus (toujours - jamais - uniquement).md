@@ -89,8 +89,8 @@ souvent un mauvais pronostic, nécessitant une exérèse précoce et large.
 
 ### Carcinome baso cellulaire
 
-- ne donne jamias de metastase
-- limite a la peau jamais au niveai de la muquese
+- ne donne jamais de metastase
+- limite a la peau jamais au niveau de la muquese
 
 
 ### Cancer du col 
@@ -298,7 +298,7 @@ Contrairement aux hépatites B ou C, l'hépatite A ne passe **jamais** à la c
 
 - **Ne jamais ventiler au masque** (risque de distension des anses intestinales intra-thoraciques qui aggrave la compression pulmonaire) ; l'intubation endotrachéale est requise.
 - [[Sténose hypertrophique du pylore]] classiquqment des vomissement **non billeux
-- [[Reflux gastro-œsophagien (RGO)]] vomissement alimentaire rarement **non billeux
+- [[Reflux gastro-œsophagien (RGO)]] vomissement alimentaire **non billeux
 
 
 ### [[Arrêt cardio circulatoire (ACC)]]

@@ -7,14 +7,14 @@
 [[nucléole]]
 [[Péroxysome]]
 [[Système endo-membranaire (SEM)]]
-[[acide nucléique]]
+==[[acide nucléique]]==
 
 ### genetique
 - ==[[Modes de trasmission des maladies monogéniques]]== 
 - [[Maladies chromosomiques]]
 - [[Hérédité non mendélienne]]
 - [[Caryotype]]
-- [[acide nucléique]]
+- ==[[acide nucléique]]
 - [[génome (ADN)]]
 - [[Biologie Moléculaire]]
 
