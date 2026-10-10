@@ -56,7 +56,7 @@
 - Ne pas administrer de **Corticoide** / pas de injection IM, AINS, ni ASPIRINE dans un milieu non hospitaliser
 
 
-### [[Immunoglobulines (Ig)]]
+### ==[[Immunoglobulines (Ig)]]
 - Les Ig sont caractÈrisÈes par une trËs grande hÈtÈrogÈnÈitÈ 
 - IgM 
     - Sous forme circulante (sérique), elles sont généralement **pentamériques**.

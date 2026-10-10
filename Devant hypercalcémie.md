@@ -48,3 +48,6 @@ Le traitement doit être instauré en urgence si la calcémie est > 120-130 mg/L
 - **Contre-indication majeure ⚠️ :** Les **diurétiques thiazidiques** sont formellement contre-indiqués car ils diminuent l'excrétion urinaire du calcium et aggravent l'hypercalcémie.
 
 **💡 Réflexe stratégique pour le concours :** **"Hypercalcémie = QT COURT à l'ECG. Cause n°1 = Hyperparathyroïdie (PTH élevée). Cause n°2 = Myélome (VS élevée + lacunes). Traitement = Réhydratation (SSI) + Bisphosphonates. JAMAIS de thiazidiques. Si HTA associée + Hypercalcémie = suspecter un Phéochromocytome (MEN 2)."**
+
+
+[[Insuffisance rénale]]

@@ -87,7 +87,7 @@ Les rhabdomyosarcomes sont plus fréquents chez l’enfant que chez l’adulte e
 souvent un mauvais pronostic, nécessitant une exérèse précoce et large.
 
 
-### Carcinome baso cellulaire
+### ==Carcinome baso cellulaire
 
 - ne donne jamais de metastase
 - limite a la peau jamais au niveau de la muquese
@@ -98,7 +98,7 @@ souvent un mauvais pronostic, nécessitant une exérèse précoce et large.
 - le depistage du cancer du col est systematique devant les femmes a partir de 25 ans
 
 
-### Mucovisidose
+### ==Mucovisidose
 - jamais de depot amyloide
 
 
@@ -121,7 +121,7 @@ souvent un mauvais pronostic, nécessitant une exérèse précoce et large.
 
 
 
-### [[Mécanismes de Résistance au Antibiotiques]]
+### ==[[Mécanismes de Résistance au Antibiotiques]]
 
 -  La résistance de _**Streptococcus pneumoniae**_ (Pneumocoque) à la pénicilline est due à une **modification des PLP** (Protéines Liant la Pénicilline) par mutation et **JAMAIS** à la sécrétion d'une enzyme.
 
@@ -203,7 +203,7 @@ Elle est **exclusivement maternelle**. Une mère transmet son ADNmt à tous ses 
 - la proposition affirmant que la maladie de Rett est un exemple de maladie mitochondriale est **fausse**
 
 
-### [[Présentations fœtales]]
+### ==[[Présentations fœtales]]
 
 - Présentations transverse est **toujours dystocique**
 
@@ -239,13 +239,13 @@ dysménorrhées (règles douloureuses) liées à l'endométriose sont le plus so
     - à l’état stable chez les **insuffisants respiratoires chroniques** sévèrement hypercapniques prÈsentant des exacerbations frÈquentes. 
 
 
-### [[Amylose]]
+### ==[[Amylose]]
 
 **Les dépôts amyloïdes sont toujours extracellulaires**
 
 
 
-### [[acidose métabolique]] et [[Acidose Respiratoire]]
+### ==[[acidose métabolique]] et [[Acidose Respiratoire]]
 
 - **Acidoses metabolique** sont **frÈquemment** hyperkaliÈmiantes **( mais pas toujours +++) Attention**.
 - **étiologie** de l'acidose :
@@ -287,16 +287,16 @@ concrenant le [[phlegmon de la gaine des fléchisseurs]] : au niveau du poignet
 
 
 
-### [[Hépatite]]
+### ==[[Hépatite]]
 Contrairement aux hépatites B ou C, l'hépatite A ne passe **jamais** à la chronicité
 
 
 ### [[Ecbu]]
 - ecbu est systematique chez toute femme enceinte avec fievre
 
-### [[Hernie diaphragmatique congénitale]]
+### ==[[Hernie diaphragmatique congénitale]]
 
-- **Ne jamais ventiler au masque** (risque de distension des anses intestinales intra-thoraciques qui aggrave la compression pulmonaire) ; l'intubation endotrachéale est requise.
+- **Ne jamais ventiler au masque** (risque de distension des anses intestinales intra-thoraciques qui aggrave la compression pulmonaire) ; l'ntubation endotrachéale est requise.
 - [[Sténose hypertrophique du pylore]] classiquqment des vomissement **non billeux
 - [[Reflux gastro-œsophagien (RGO)]] vomissement alimentaire **non billeux
 

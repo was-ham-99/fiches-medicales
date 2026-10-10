@@ -118,7 +118,7 @@ E. 3 + 4
 
 ---
 
-## Question 83
+## ==Question 83
 
 **Énoncé :** [[Système rénine-angiotensine-aldostérone (SRAA)]]  angiotensine II : *(Cochez la réponse juste)*
 
@@ -178,7 +178,7 @@ E. Est responsable de l'éjection du lait au niveau de la glande mammaire.
 
 ---
 
-## Question 85
+## ==Question 85
 
 **Énoncé :** En [[période post-prandiale]] : *(Cochez la réponse juste)*
 
@@ -296,7 +296,7 @@ E. Est une vitamine hydrosoluble.
 
 ---
 
-## Question 89
+## ==Question 89
 
 **Énoncé :** La fermeture du [[Sphincter inférieur œsophagien (SIO)]] est inhibée par : *(Cochez la réponse juste)*
 
@@ -327,7 +327,7 @@ E. Aucun de ces facteurs.
 
 ---
 
-## Question 90
+## ==Question 90
 
 **Énoncé :** La clearance rénale d'une substance X : *(Cochez l'association juste)*
 

@@ -40,7 +40,7 @@ Lors d'une lésion médullaire brutale (traumatique ou compression rapide), le p
 - **Causes fréquentes :**
     - **Tumeurs :** Méningiome, épendymome intramédullaire.
     - **Infections :** **Mal de Pott** (tuberculose vertébrale) avec destruction discale et vertébrale.
-    - **Maladies inflammatoires :** La **Sclérose en plaques** peut simuler une paraparésie spastique progressive.
+    - **Maladies inflammatoires :** La **[[Sclérose en Plaques (SEP)]]** peut simuler une paraparésie spastique progressive.
     - **Hématologie :** Le **[[Myélome Multiple (maladie de Kahler)]]**  peut se révéler par une compression médullaire due à un tassement vertébral ou une épidurite.
 
 

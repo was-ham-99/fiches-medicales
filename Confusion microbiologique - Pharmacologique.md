@@ -48,7 +48,7 @@ Scarlatine
         - **fibroine**   est   une   protÈine   sÈcrÈtÈe   par   le ver   ‡   soie   qui   donnera   le   fil   de   soie .   Cette protÈine   est   constituÈe   essentiellement   de feuillets   plissÈs   beta .
 - **Tertiaire :
     - structure tertiaire   correspond a la structure **tridimensionnelle**   de la protÈine   Une structure tertiaire **n’est pas une structure figÈe** elle peut se modifier (se tordre, se dÈformer) sous l ’ effet de la fixation d ’ une molÈcule **(ligand)** ou sous l ’ effet de la variation d ’ un paramËtre physico - chimique **(pH, tempÈrature)**.
-- hÈmoglobine a une **structure quaternaire
+- **[[hémoglobine]]** a une **structure quaternaire
 
 
 ### Acide amine essentiel :

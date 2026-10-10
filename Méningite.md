@@ -65,3 +65,5 @@ Généralement de pronostic bénin ("méningites à liquide clair").
 - **"Purpura fébrile"** = Urgence **Purpura Fulminans** (Méningocoque).
 - **"Céphalées + Vomissements en jet"** = Réflexe **Hypertension Intracrânienne (HIC)**, pratiquer un fond d'œil avant la ponction lombaire si des signes de focalisation existent.
 - **"Levures encapsulées dans le LCR"** = Réflexe **Cryptococcose** (chercher un terrain VIH/SIDA).
+
+[[Convulsion]]

@@ -387,7 +387,7 @@ La [[thrombo angéite oblitérante]] est fortement liée au tabac.
 
 L’anémie hémolytique est régénérative (réticulocytes élevés) et normocytaire ou macrocytaire (par régénération). Les causes de macrocytaire non régénérative sont : carence en B9/folates, alcool, hypothyroïdie, myélodysplasie.
 
-**31. L’infection à Helicobacter pylori est incriminée dans la survenue de : (Cocher la réponse fausse)**
+**31. L’infection à [[Helicobacter pylori (HP)]] est incriminée dans la survenue de : (Cocher la réponse fausse)**
 
 **Réponse officielle : E (Aucune de ces propositions)**
 
@@ -688,7 +688,7 @@ En première intention : examen ORL, échographie avec cytoponction, téléthora
 
 La cataracte congénitale, si non traitée rapidement, entraîne une amblyopie par privation visuelle.
 
-**60. La rétinopathie diabétique : (cocher la réponse fausse)**
+**60. La [[rétinopathie diabétique]] : (cocher la réponse fausse)**
 
 **Réponse officielle : C (Ne survient qu’en cas de diabète insulinodépendant)**
 

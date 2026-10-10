@@ -1,6 +1,6 @@
 **Correction détaillée du Concours de Résidanat de Médecine (Février 2022)**
 
-**Question 1**
+==**Question 1**
 
 **Quel est le taux du LDL cholesterol chez un patient dont le taux du cholesterol total est de 2,50 g/l, de triglycérides 3 g/l et celui du cholesterol non HDL est de 2,20 g/l ?**
 [[Lipides]]
@@ -1371,7 +1371,7 @@ Donc pour la 61, réponse = a.
 - Piège : Confondre stridor et sibilants.
     
 
-**80. Les anomalies électrocardiographiques retrouvées sur le tracé d'un patient atteint d'embolie pulmonaire sont : Cocher la réponse fausse**
+**80. Les anomalies électrocardiographiques retrouvées sur le tracé d'un patient atteint d'[[Embolie Pulmonaire (EP)]] sont : Cocher la réponse fausse**
 
 - Réponse : d (donc D)
     

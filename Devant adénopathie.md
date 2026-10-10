@@ -1,7 +1,7 @@
 - Adénopathies cervicales des **réticuloses** : **[[Sarcoïdose]]**
 - Adénopathies d’origine médicamenteuse : hydantoïnes, **[[Carbamazépine (Tégrétol)]]**, **rifampicine**, pénicillines, **captopril** et **méthyldopa
 - Adénopathies cervicales d’origine **infectieuse
-    - **Tuberculose**
+    - **[[Tuberculose]]**
     - **Syphilis**
     - **[[Toxoplasmose]]**
     - **Tularémie**   : maladie infectieuse à BGN pasturella tularensis

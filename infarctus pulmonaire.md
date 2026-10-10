@@ -6,7 +6,7 @@ Voici les points clés à retenir selon les sources (2002-2025) :
 
 - **Infarctus rouge :** Le poumon est l'organe type de l'**infarctus rouge** (ou hémorragique).
 - **Mécanisme :** Il survient lors de l'obstruction d'une branche de l'artère pulmonaire, suivie d'une inondation hémorragique du territoire nécrosé à partir des artères bronchiques (double circulation).
-- **Terrain favorisant :** Il se produit plus volontiers en cas d'**embolie distale** et est souvent facilité par une **insuffisance cardiaque** préexistante qui ralentit la circulation de suppléance.
+- **Terrain favorisant :** Il se produit plus volontiers en cas d'**embolie distale** et est souvent facilité par une **[[Insuffisance cardiaque (IC)]]** préexistante qui ralentit la circulation de suppléance.
 
 ### 2. Caractéristiques Morphologiques et Histologiques 📐
 

@@ -1,0 +1,5 @@
+[[Acénocoumarol (Sintrom)]]
+[[Méningite]]
+[[paralysie faciale]]
+[[Insuffisance rénale]]
+[[hypercalcémie]]

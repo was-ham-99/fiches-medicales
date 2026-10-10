@@ -72,3 +72,91 @@
 
 
 [[Pancréatite Aiguë - CAT.pdf]]
+
+
+
+
+
+---
+
+### 📋 Rappel du Cas Clinique
+
+> **Observation :** Madame, 52 ans, obèse, diabétique sous hypoglycémiants oraux, se présente aux urgences pour une douleur épigastrique intense survenue il y a 1 heure, irradiant en barre, transfixiante et accompagnée de vomissements bilieux. **Examen clinique :** Patiente pâle, agitée, en position penchée en avant.
+> 
+> - FC = 110 bat/min, FR = 22 cycles/min, TA = 120/95 mmHg, T° = 37,5 °C. **Bilan biologique :**
+> - GB = 13 800/mm³, Hb = 11 g/dl, TP = 90 %, Urée et créatinine normales.
+> - Lipasémie = 710 UI/l (Normale < 63 UI/l, soit > 10 N). **Diagnostic retenu :** Pancréatite Aiguë (PA).
+
+---
+
+### 💡 Correction Détaillée et Explications
+
+#### **Question 1 : Classification initiale de la pancréatite aiguë**
+
+- **Énoncé :** _Selon vous, cette pancréatite est classée : (Cochez la réponse juste)_
+- **Réponse juste :** **D. Grave**
+- **Explication médicale :** L'association d'un terrain à risque (obésité) et de critères de gravité clinico-biologiques précoces (SIRS d'emblée positif avec 3 critères) classe la pancréatite aiguë comme sévère/grave.
+
+---
+
+#### **Question 2 : Évaluation de la gravité de la pancréatite aiguë**
+
+- **Énoncé :** _Pour évaluer la gravité de la pancréatite aiguë : (Cochez les réponses justes)_
+- **Réponses justes :** **3, 5, 6 (réalisé entre H72 et H96)**
+- **Explication médicale :**
+    1. **Monitoring de la CRP (Item 3) :** La CRP mesurée à 48–72h est le marqueur biologique de référence de la nécrose pancréatique (seuil de gravité > 150 mg/l). _Piège classique :_ On ne surveille pas la lipasémie car son taux n'est pas corrélé à la gravité.
+    2. **Recherche d'un SIRS (Item 5) :** Examen clinique fondamental précoce.
+    3. **TDM abdominale injectée (Item 6) :** Réalisée idéalement entre **H72 et H96** (score de Balthazar / CTSI) pour évaluer l'étendue exacte de la nécrose.
+
+---
+
+#### **Question 3 : Calcul du score SIRS à l'admission**
+
+- **Énoncé :** _Nous avons utilisé le SIRS comme score de gravité de la PA, ce score est de : (Cochez la réponse juste)_
+- **Réponse juste :** **D. 3**
+- **Démonstration du calcul :**
+    - FC = 110 bat/min (> 90/min) ➔ **+1 point**
+    - GB = 13 800/mm³ (> 12 000/mm³) ➔ **+1 point**
+    - FR = 22 cycles/min (> 20/min) ➔ **+1 point**
+    - Température = 37,5 °C (comprise entre 36 °C et 38 °C) ➔ 0 point.
+    - **Score SIRS total = 3**.
+
+---
+
+#### **Question 4 : Bilan biologique initial à visée étiologique**
+
+- **Énoncé :** _Pour établir un diagnostic étiologique, le bilan initial doit inclure : (Cochez la réponse juste)_
+- **Réponse juste :** **D. (1, 4) — Échographie abdominale + Dosage des ALAT**
+- **Explication médicale :**
+    - **Échographie abdominale (1) :** Examen de 1ère intention pour rechercher une lithiase vésiculaire.
+    - **Dosage des ALAT (4) :** Une élévation des ALAT > 3 N dans les 48 premières heures a une valeur prédictive positive > 85 % en faveur d'une **origine biliaire**.
+
+---
+
+#### **Question 5 : Prise en charge initiale**
+
+- **Énoncé :** _La prise en charge initiale consiste ; cochez les réponses fausses :_
+- **Réponses fausses (à cocher) :** **C (Mettre une ATB prophylactique) et E (Opérer en urgence les nécroses PK)**
+- **Explication médicale :**
+    - **C est FAUX :** L'antibiothérapie prophylactique systématique n'est **pas indiquée** dans la pancréatite aiguë nécrotique non surinfectée.
+    - **E est FAUX :** L'intervention chirurgicale précoce sur une nécrose stérile est contre-indiquée ; la chirurgie/nécrosectomie est réservée à la nécrose surinfectée prouvée et doit être différée autant que possible (approche _step-up_).
+
+---
+
+#### **Question 6 : Évolution à 36h et exploration de la Voie Biliaire Principale (VBP)**
+
+- **Énoncé :** _Apparition à 36h d'un ictère rétentionnel (Bilirubine totale = 95 mg/l). L'échographie montre une VBP dilatée à 13 mm sans obstacle visible. Le bilan morphologique pour explorer la VBP comprend : (Cochez la réponse juste)_
+- **Réponse juste :** **D. Une cholangio-IRM**
+- **Explication médicale :** Devant une VBP dilatée avec cholestase sans calcul visualisé à l'échographie, la **cholangio-IRM** est l'examen non invasif de choix (très haute sensibilité) pour mettre en évidence un obstacle lithiasique migrateur.
+
+---
+
+#### **Question 7 : Étiologie de l'ictère secondaire**
+
+- **Énoncé :** _L'ictère présenté par la patiente est dû à : (Cochez la réponse juste)_
+- **Réponse juste :** **C. Une migration d'un calcul dans la VBP**
+- **Explication médicale :** Le tableau d'ictère nuictamérique chez une patiente aux voies biliaires lithiasiques traduit la **migration d'un calcul vésiculaire** dans le cholédoque.
+
+---
+
+🎯 **Nudge :** Souhaitez-vous un **quizz interactif en 5 questions** sur les autres dossiers de gastro-entérologie (ulcère perforé, occlusion intestinale, appendicite) pour continuer votre entraînement sur les cas cliniques du concours ?

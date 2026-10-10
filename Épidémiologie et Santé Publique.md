@@ -54,7 +54,7 @@ Il est crucial de classer les actions de santé selon les trois niveaux de prév
 - **Vaccination (PEV) :**
     - Le calendrier national a été mis à jour (2016) avec l'introduction du vaccin **anti-pneumococcique** (13 valences).
     - À la naissance, les vaccins obligatoires sont le **BCG**, le **VPO** (polio) et l'**Hépatite B**.
-- **Maladies à Déclaration Obligatoire (MDO) :** Incluent le choléra, la fièvre typhoïde, la rage, la tuberculose et la méningite cérébro-spinale. La déclaration doit être faite dès la **suspicion** clinique.
+- **[[Maladies à Déclaration Obligatoire (MDO)]] :** Incluent le choléra, la fièvre typhoïde, la rage, la tuberculose et la méningite cérébro-spinale. La déclaration doit être faite dès la **suspicion** clinique.
 - **Surveillance Épidémiologique :** Définie par la collecte systématique, l'analyse et la diffusion rapide des données de santé.
 
 ### 5. Statistiques Médicales (Khi-2 et Variables) 🔢

@@ -1,1 +1,1 @@
-- hypercalcémie < 3 mmol/l = habituellement asymptomatique.
+- hypercalcémie < 2.6 mmol/l = habituellement asymptomatique.

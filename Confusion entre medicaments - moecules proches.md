@@ -41,4 +41,4 @@
     - **CYSTINOSE**
         - st une maladie métabolique **rare**; due à un trouble du fonctionnement des **lysosomes**
     - **OCHRONOSE**
-        - Caractérisée par le noircissement spontané des urines en présence d’oxygène, cette réaction caractérise un dérivé de la **tyrosine** qui, en l’absence d’un enzyme, ne peut être métabolisé. -
+        - Caractérisée par le noircissement spontané des urines en présence d’oxygène, cette réaction caractérise un dérivé de la **[[tyrosine]]** qui, en l’absence d’un enzyme, ne peut être métabolisé. -

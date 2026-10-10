@@ -2,6 +2,9 @@
 [[Accident du travail]]
 [[Accidents de transfusion sanguine]]
 
+[[Cirrhose]]
+
+
 Au concours de résidanat, l'**Accident Exposant au Sang (AES)** ne se "diagnostique" pas comme une pathologie classique, mais se **constate et s'évalue** comme une véritable urgence médico-légale et infectieuse dans le cadre des accidents du travail.
 
 D'après les annales (notamment les dossiers de 2018 et 2021), voici la démarche d'évaluation du risque et les réflexes exigés :

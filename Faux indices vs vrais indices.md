@@ -1,3 +1,7 @@
+
+### [[Radiographie du thorax]]
+
+
 ### [[Pneumonie]] et sa complication Syndrome Pleural Liquidien ([[Pleurésie]]) 
 
 - pneumonies aigues communautaires (PAC)

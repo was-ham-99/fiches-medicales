@@ -27,6 +27,8 @@ Le **diabète sucré** est l'un des thèmes les plus transversaux et "hypertomba
 - [[Névralgie crurale]]
 - [[Coronopathie]]
 - [[Artériopathie Oblitérante des Membres Inférieurs (AOMI)]]
+
+
 - **Complications ostéoarticulaires** :
     - Capsulites rétractiles de l’épaule – 
     - Syndrome du canal carpien fréquent (nécessitant des infiltrations ou une décompression chirurgicale du nerf atteint). 

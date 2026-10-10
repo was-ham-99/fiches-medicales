@@ -1,5 +1,7 @@
 [[Bronchite chronique obstructive (BPCO)]]
 
+[[Cancer bronchique]]
+
 Au concours de résidanat, la **Bronchopneumopathie chronique obstructive (BPCO)** est un sujet majeur de pneumologie, classé parmi les cours "hypertombables" (avec au moins 6 apparitions significatives dans les annales). Il est souvent évalué sous forme de cas cliniques mettant en scène un patient tabagique présentant une dyspnée d'effort progressive et des complications de type cœur pulmonaire chronique.
 
 D'après l'analyse des sources, voici les points clés et les réflexes stratégiques à maîtriser :

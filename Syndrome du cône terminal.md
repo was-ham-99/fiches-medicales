@@ -40,4 +40,4 @@ Le concours piège souvent sur cette distinction fondamentale :
 - **"Anesthésie en selle + Troubles sphinctériens massifs + Babinski"** = Réflexe **Cône Terminal**.
 - **"Lésion en L1-L2"** = Réflexe **Cône Terminal**.
 - **"Paraparésie spastique vs flasque"** : Si c'est spastique avec Babinski, c'est le cône ou la moelle ; si c'est purement flasque sans Babinski, c'est la queue de cheval.
-- **"Syndrome sous-lésionnel"** : L'existence d'une hypertonie spastique et de réflexes vifs confirme une atteinte médullaire (donc au niveau ou au-dessus du cône).
+- **"[[Syndrome sous-lésionnel]]"** : L'existence d'une hypertonie spastique et de réflexes vifs confirme une atteinte médullaire (donc au niveau ou au-dessus du cône).

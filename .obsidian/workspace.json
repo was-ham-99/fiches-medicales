@@ -159,41 +159,39 @@
               "icon": "lucide-file",
               "title": "Biologie_2026"
             }
+          },
+          {
+            "id": "2966b06726a53cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selection"
+            }
+          },
+          {
+            "id": "799368fc51a437ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "3167b83ca6e8d90b",
         "type": "tabs",
         "dimension": 50,
         "children": [
-          {
-            "id": "72d3ea4f8c9faf42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grossesse molaire (Mole hydatiforme).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "grossesse molaire (Mole hydatiforme)"
-            }
-          },
-          {
-            "id": "6b5fb13e7ff7e57c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "12-_Gynécologie-Obstétrique.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "12-_Gynécologie-Obstétrique"
-            }
-          },
           {
             "id": "b17865a4735a4a5e",
             "type": "leaf",
@@ -220,20 +218,6 @@
               },
               "icon": "lucide-file",
               "title": "Spondylarthrite ankylosante (SPA)"
-            }
-          },
-          {
-            "id": "cf7452390afb5135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insuffisance rénale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insuffisance rénale"
             }
           },
           {
@@ -265,20 +249,6 @@
             }
           },
           {
-            "id": "2a4523822105439d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 68.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 68"
-            }
-          },
-          {
             "id": "91a561d448bc166e",
             "type": "leaf",
             "state": {
@@ -290,34 +260,6 @@
               },
               "icon": "lucide-file",
               "title": "Tuberculose"
-            }
-          },
-          {
-            "id": "57ad33f792ff3bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Érysipèle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Érysipèle"
-            }
-          },
-          {
-            "id": "869133c027393756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 87.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 87"
             }
           },
           {
@@ -360,34 +302,6 @@
               },
               "icon": "lucide-file",
               "title": "Guide de préparation et méthodologie"
-            }
-          },
-          {
-            "id": "7cbd7d313ec8e228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innervation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Innervation"
-            }
-          },
-          {
-            "id": "8c1ce1288959313b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inflammation granulomateuse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inflammation granulomateuse"
             }
           },
           {
@@ -447,59 +361,17 @@
             }
           },
           {
-            "id": "39d21aff17c03147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypertension artérielle (HTA).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypertension artérielle (HTA)"
-            }
-          },
-          {
-            "id": "8dad14d3944d4aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faux indices vs vrais indices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faux indices vs vrais indices"
-            }
-          },
-          {
             "id": "af4ad6c6c4b82106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 124.md",
+                "file": "infarctus pulmonaire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 124"
-            }
-          },
-          {
-            "id": "61a7c24c3d9c3776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hématome Rétro-Placentaire (HRP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hématome Rétro-Placentaire (HRP)"
+              "title": "infarctus pulmonaire"
             }
           },
           {
@@ -517,21 +389,217 @@
             }
           },
           {
-            "id": "f79f717cdb00bca2",
+            "id": "476f7bce7a108ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choriocarcinome.md",
+                "file": "Asthme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Choriocarcinome"
+              "title": "Asthme"
+            }
+          },
+          {
+            "id": "46a8f33b1613ee1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cirrhose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cirrhose"
+            }
+          },
+          {
+            "id": "ab26bb5231a00223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atélectasies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atélectasies"
+            }
+          },
+          {
+            "id": "6b4cfee83b076833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cas_clinique_4_dossier_2019.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cas_clinique_4_dossier_2019"
+            }
+          },
+          {
+            "id": "56c17b1180982f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertension artérielle (HTA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypertension artérielle (HTA)"
+            }
+          },
+          {
+            "id": "a1af72f23e210ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie_Predictif_2011.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biologie_Predictif_2011"
+            }
+          },
+          {
+            "id": "b7d2d387e94033fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie_Predictif_2013.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biologie_Predictif_2013"
+            }
+          },
+          {
+            "id": "07ae8b38a33fa8d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "biologie_clinique_2022_dec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "biologie_clinique_2022_dec"
+            }
+          },
+          {
+            "id": "1e41d9c388736938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maladies auto-immunes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "maladies auto-immunes"
+            }
+          },
+          {
+            "id": "e150ae37dd5e5b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ÉPILEPSIE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ÉPILEPSIE"
+            }
+          },
+          {
+            "id": "169257c69a750ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rougeole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rougeole"
+            }
+          },
+          {
+            "id": "a2ba5ca3d61c3f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infarctus du Myocarde (IDM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infarctus du Myocarde (IDM)"
+            }
+          },
+          {
+            "id": "7b7d72fb554b1f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Double negation (ne pas - faux - sauf combine).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Double negation (ne pas - faux - sauf combine)"
+            }
+          },
+          {
+            "id": "a1e19d63384f04ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clinique_2015.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clinique_2015"
+            }
+          },
+          {
+            "id": "8004f121973d42ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie_2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biologie_2026"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -607,7 +675,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sepsis.md",
+                "file": "Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -696,34 +764,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ba5fd9033d7efa0",
+  "active": "2966b06726a53cf1",
   "lastOpenFiles": [
-    "Insuffisance rénale.md",
-    "Sepsis.md",
-    "Untitled 133.md",
-    "Choc Septique.md",
-    "Hémoculture.md",
-    "Infection néonatale bactérienne.md",
-    "Grossesse extra utérine (GEU).md",
-    "cas_clinique_6_dossier_2019.md",
-    "Choriocarcinome.md",
-    "Untitled 134.md",
-    "Hématome Rétro-Placentaire (HRP).md",
-    "cas_clinique_5_dossier_2005.md",
-    "Untitled 124.md",
-    "môle hydatiforme.md",
-    "grossesse molaire (Mole hydatiforme).md",
-    "maladies trophoblastiques gestationnelles.md",
-    "Terme absolus (toujours - jamais - uniquement).md",
-    "grossesse.md",
-    "Untitled 128.md",
-    "hémorragies.md",
-    "clinique_2012.md",
-    "Coagulation Intra Vasculaire Disséminée (CIVD).md",
-    "Facteur I (fibrinogène).md",
-    "Purpura Thrombopénique Idiopathique (PTI).md",
-    "splénomégalie.md",
-    "Untitled 127.md",
+    "Clonidine (alpha-2 agoniste central).md",
+    "Vasodilatateur.md",
+    "Selection.md",
+    "Hyperkaliémie.md",
+    "Biologie_2026.md",
+    "Cytologie.md",
+    "Hémostase.md",
+    "Colchicine.md",
+    "Polyarthrite Rhumatoïde (PR).md",
+    "hyperuricémie.md",
+    "Double negation (ne pas - faux - sauf combine).md",
+    "Thrombasthénie de Glanzmann.md",
+    "Valeur isole anormale noye dans un bilan.md",
+    "Virus.md",
+    "péroxysome.md",
+    "glucose-6-phosphate.md",
+    "hexokinase.md",
+    "voie des pentoses phosphate.md",
+    "Déficit en Glucose-6-Phosphate Déshydrogénase (G6PD).md",
+    "acides aminés aromatiques.md",
+    "biologie_2018.md",
+    "Untitled 181.md",
+    "Cancer de la tête du pancréas.md",
+    "algodystrophie.md",
+    "Syndrome Douloureux Régional Complexe (SDRC ou Algodystrophie).md",
+    "Fracture du poignet.md",
     "12-_Gynécologie-Obstétrique.pdf",
     "Sujets Résidanat -20260506T082408Z-3-001.zip",
     "residanat/Cours + Remarque/2. Science Interventionelle/Pneumologie/sauvegarde_fiches.zip",

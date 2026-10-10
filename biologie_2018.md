@@ -1284,7 +1284,7 @@
     
 - **Réponse Fausse : B**
     
-- **Explication :** La **papillomatose laryngée** est due aux **Papillomavirus humains (HPV)** , pas au VIH. Toutes les autres propositions sont des caractéristiques exactes du VIH (transmission sexuelle/sanguine/maternelle, famille des Retroviridae, grande variabilité, infection chronique menant au SIDA).
+- **Explication :** La **papillomatose laryngée** est due aux **[[Papillomavirus humains (HPV)]]** , pas au VIH. Toutes les autres propositions sont des caractéristiques exactes du VIH (transmission sexuelle/sanguine/maternelle, famille des Retroviridae, grande variabilité, infection chronique menant au SIDA).
     
 
 **63. Parmi les propositions suivantes, concernant le diagnostic de la toxoplasmose : (Cocher la réponse fausse)**
@@ -1765,12 +1765,6 @@
 - **Explication :** La cytoponction n'est pas suffisante pour décider d'un traitement. Elle a mis en évidence des cellules cancéreuses, mais elle ne renseigne pas sur l'architecture, le grade, ou l'invasion. Il est donc nécessaire de réaliser une **biopsie mammaire** (microbiopsie ou macrobiopsie) pour obtenir un diagnostic histologique de certitude avant toute décision thérapeutique. (L'examen extemporané (C) peut être fait pendant la chirurgie, mais pas à ce stade pré-opératoire).
     
 
-**88. Cet examen : (Cocher la réponse juste)**  
-1. Nécessite une fixation au formol  
-2. Doit être effectué en per-opératoire  
-3. Nécessite une fixation à l'état frais  
-4. Doit se faire sur coupes en congélation  
-5. Est écho-guidé
 
 - **Réponse Juste : C (3+4)**
     
@@ -2888,7 +2882,7 @@
     
 - **Explication :** L'acidocétose diabétique se manifeste par une polyurie-polydipsie, une déshydratation (C), une polymée ample (Kussmaul, B) pour compenser l'acidose, et une hypotonie (A). La température est normale ou basse (E).
     
-    - **D. Faux.** Le **signe de Babinski** n'est pas un signe de l'acidocétose. Il peut être présent si le coma est très profond (avec souffrance cérébrale), mais il n'est pas un signe classique.
+    - **D. Faux.** Le **[[Signe de Babinski]]** n'est pas un signe de l'acidocétose. Il peut être présent si le coma est très profond (avec souffrance cérébrale), mais il n'est pas un signe classique.
         
 
 **51. La prise en charge d'une déshydratation aiguë estimée à 10%, isonatrémique, est comme suit : (Cocher la réponse fausse)**
@@ -3661,7 +3655,7 @@
         
     - **3. Vrai.** Le **vasospasme** est une complication redoutable survenant entre J4 et J14.
         
-    - **4. Vrai.** L'**hydrocéphalie aiguë** par blocage des citernes est une complication précoce.
+    - **4. Vrai.** L'**[[Hydrocéphalie]] aiguë** par blocage des citernes est une complication précoce.
         
     - **2. Faux.** L'hydrocéphalie à pression normale est une complication **tardive**.
         
@@ -4095,7 +4089,7 @@
     
 - **Explication :**
     
-    - Analysons les signes : fontanelle déprimée, yeux excavés, pli cutané net → signes de **déshydratation extracellulaire** (C vrai). Marbrures, TRC allongé (5 sec) → signes de **choc hypovolémique** (B vrai). Myosis serré ? Myosis peut être signe de souffrance neurologique ou autre, mais pas typique. Acidose : non mentionnée directement, mais la polypnée ? Pas de respiration de Kussmaul décrite. L'item A dit "signes cliniques d'acidose", or on n'en voit pas. Donc A est probablement faux. Donc E (qui dit que A et B sont justes) est fausse.
+    - Analysons les signes : fontanelle déprimée, yeux excavés, pli cutané net → signes de **[[déshydratation]] extracellulaire** (C vrai). Marbrures, TRC allongé (5 sec) → signes de **choc hypovolémique** (B vrai). Myosis serré ? Myosis peut être signe de souffrance neurologique ou autre, mais pas typique. Acidose : non mentionnée directement, mais la polypnée ? Pas de respiration de Kussmaul décrite. L'item A dit "signes cliniques d'acidose", or on n'en voit pas. Donc A est probablement faux. Donc E (qui dit que A et B sont justes) est fausse.
         
     - **A. Faux.** Pas de signe d'acidose (respiration ample, etc.) décrit.
         
@@ -4764,7 +4758,7 @@
     
 - **Explication :**
     
-    - L'algodystrophie (SDRC) est une complication possible de toute fracture, mais elle n'est pas spécifique des fractures ouvertes et n'est pas la plus redoutée. Les complications infectieuses (A, B, C) et le syndrome des loges (E) sont les plus graves et spécifiques. Donc D est la moins spécifique.
+    - L'[[algodystrophie]] (SDRC) est une complication possible de toute fracture, mais elle n'est pas spécifique des fractures ouvertes et n'est pas la plus redoutée. Les complications infectieuses (A, B, C) et le syndrome des loges (E) sont les plus graves et spécifiques. Donc D est la moins spécifique.
         
 
 **48. Après l'intervention, soit 36 heures après le traumatisme, il présente des pétéchies avec un tableau de détresse respiratoire aiguë associée à une agitation. Le fond d'œil objective de multiples hémorragies rétiniennes. Le diagnostic le plus probable est :**
