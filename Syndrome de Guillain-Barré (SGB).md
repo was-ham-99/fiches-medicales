@@ -33,4 +33,4 @@ L'examen du liquide céphalo-rachidien (LCR) est l'élément diagnostique le plu
 - **"Urgence médicale"** : Toujours hospitaliser pour surveiller la fonction respiratoire.
 - **Diagnostic différentiel :** Doit être distingué d'une compression médullaire ou d'un syndrome de la queue de cheval, lesquels présentent des signes centraux (Babinski) ou des niveaux sensitifs fixes que l'on ne retrouve pas dans le SGB.
 
-Souhaitez-vous que je compare ce syndrome avec d'autres pathologies de l'unité motrice comme la myasthénie ?
+Souhaitez-vous que je compare ce syndrome avec d'autres pathologies de l'unité motrice comme la [[Myasthénie]] ?

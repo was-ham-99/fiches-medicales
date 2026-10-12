@@ -46,3 +46,5 @@ C'est la partie la plus testée en QCM. De nombreux médicaments peuvent aggrave
 - **Autres :** D-pénicillamine, Phénytoïne.
 
 **💡 Réflexe stratégique pour le concours :** **"Ptosis fluctuant + Fatigabilité + ZÉRO amyotrophie = Myasthénie. Diagnostic = Anti-RACh + ENMG (Décrément > 10%). Toujours demander un Scanner Thoracique (Thymus). Règle d'or : JAMAIS de Bêta-bloquants ni d'Aminosides. Crise aiguë = IVIG ou Plasmaphérèse."**
+
+[[Syndrome parkinsonien]]
