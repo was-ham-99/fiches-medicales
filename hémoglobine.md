@@ -31,7 +31,7 @@ Les sources distinguent les anomalies qualitatives (hémoglobines de structure a
 
 #### C. Les Thalassémies
 
-- **$\beta$-thalassémie homozygote (Maladie de Cooley) :**
+- **$\beta$-thalassémie homozygote ([[Béta-thalassémie majeure (Maladie de Cooley)]]) :**
     - Anémie microcytaire, hypersidérémique avec **augmentation de l'Hb F** (qui devient la fraction majoritaire).
     - L'Hb A est absente ou très diminuée.
 - **$\beta$-thalassémie mineure :** Se définit biologiquement par un taux d'**Hb $A_2$ supérieur à 3,3 %**.

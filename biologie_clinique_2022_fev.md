@@ -810,7 +810,7 @@ Les deux contre-indications absolues classiques sont donc le **pacemaker** et 
         
 - **Mots-clés :** Prévention primaire, secondaire, tertiaire.
     
-- **Piège :** Connaître les niveaux de prévention.
+- **Piège :** Connaître les niveaux de [[prévention]].
     
 
 **40. Les conditions de réalisation d'une [[Radiographie du thorax]] de face sont :**

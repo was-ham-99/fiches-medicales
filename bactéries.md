@@ -22,7 +22,7 @@ Le concours interroge systématiquement les caractéristiques morphologiques pou
 - **_[[Staphylococcus aureus]]_ :** Sécrète diverses enzymes comme la coagulase. Responsable de pleuro-pneumonies (images bulleuses labiles) et d'infections du site opératoire. Dans les intoxications alimentaires, la diarrhée est due à une **exotoxine thermostable**.
 - **_[[Streptococcus pneumoniae]]_ :** Commensal du rhino-pharynx. Sensible à l'**optochine**. C'est la cause principale des pneumonies franches lobaires aiguës.
 - **_[[Listeria monocytogenes]]_ :** Naturellement résistante aux céphalosporines de 3ème génération (C3G), un piège classique en thérapeutique.
-- **_Helicobacter pylori_ :** Impliqué dans la maladie ulcéreuse gastro-duodénale et le cancer gastrique. Son éradication réduit le risque de récidive.
+- **_[[Helicobacter pylori (HP)]]_ :** Impliqué dans la maladie ulcéreuse gastro-duodénale et le cancer gastrique. Son éradication réduit le risque de récidive.
 
 ### 3. Résistance aux Antibiotiques et Mécanismes 💊
 

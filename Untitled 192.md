@@ -1,0 +1,2 @@
+[[système sympathique]]
+[[dermatophytes]]

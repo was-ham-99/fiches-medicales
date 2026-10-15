@@ -55,43 +55,6 @@
 - C'est une urgence vitale absolue qui nécessite : 
     - **Geste salvateur :** La **ponction-drainage péricardique**
     - ==Contre-indication formelle :** Les **diurétiques** sont contre-indiqués en urgence car ils diminuent le retour veineux et aggravent l'état de choc.==
-### [[Cirrhose]]
-
-- **Bilan étiologique de base d'une cirrhose :** Sérologies VHB et VHC.
-- ==**Deux prescriptions à ne JAMAIS oublier en cas d'hémorragie chez un cirrhotique :**
-    
-    1. **Antibiothérapie prophylactique** (éviter l'infection de l'ascite).
-        
-    2. **Lactulose** (prévenir l'encéphalopathie hépatique induite par l'hyperammoniémie d'origine digestive).
-- **Triade de l'Hémorragie sur HTP :** Stabilisation/Transfusion + Traitement vasoactif (Sandostatine/Terlipressine) + Traitement endoscopique (Ligature des VO).
-- Chez un cirrhotique, une hémorragie digestive haute est, jusqu'à preuve du contraire, liée à une **rupture de varices œsophagiennes**.
-
-- Tableau clinique combine deux syndromes majeurs :
-    1. Un **syndrome d'[[insuffisance hépato cellulaire]]** : angiomes stellaires, érythrose palmaire, TP abaissé à $58\%$.
-    
-    2. Un **syndrome d'[[hypertension portale (HTP)]]** : splénomégalie, thrombopénie modérée ($110.000/\text{mm}^3$), tronc porte dilaté à $15\text{ mm}$ et collatérales spléno-rénales à l'échographie. L'association d'une HTP, d'une insuffisance hépatocellulaire et d'un **foie dysmorphique** affirme une **[[Cirrhose hépatique]]**
-
-- ==Devant **toute** hémorragie digestive **haute** extériorisée (méléna ou hématémèse), l'examen clé diagnostique et thérapeutique à réaliser en première intention (dans les 12 à 24 heures après stabilisation hémodynamique) est la **Fibroscopie œso-gastro-duodénale (FOGD)**
-
-### [[Cancer bronchique]]
-- **Hémoptysie + Grand tabagisme + Opacité pulmonaire =** Éliminer en priorité un cancer bronchique primitif.
-
-- Face à une **opacité** pulmonaire intra-parenchymateuse arrondie, dense, de 5 cm chez un homme de 59 ans grand fumeur (33 PA) :
-    - Le **Cancer bronchique primitif** est le premier diagnostic éliminer en raison du terrain tabagique et de l'hémoptysie.
-    - Le **Kyste hydatique pulmonaire** (très endémique en Algérie) donne typiquement cette image d'opacité arrondie, homogène, « en boulet de canon », à limites nettes et régulières.
-    
-- **Histologie du Carcinome Épidermoïde :** Ponts d'union intercellulaires + Kératinisation (globes cornés).
-
-- ==Les deux examens fondamentaux et incontournables devant une suspicion de néoplasie ou de masse pulmonaire symptomatique sont :
-
-    1. **Le scanner (TDM) thoracique injecté :** Pour caractériser la masse (densité, rehaussement, envahissement) et chercher des adénopathies médiastinales.
-    
-    2. **La fibroscopie bronchique :** Indispensable devant une hémoptysie pour localiser le saignement et surtout réaliser des **biopsies bronchiques** ou des aspirations à visée histologique.
-
-- ==**Sites préférentiels des métastases du CNAPC :** Cerveau, Foie, Surrénales, Os.
-- ==**Stade localisé (T2N1M0) =** Indication chirurgicale première d'exérèse carcinologique
-    - **T2 :** La masse mesure plus de 3 cm mais moins de 5 ou 7 cm selon les versions .
-    - **N1 :** Présence d'une **adénopathie hilaire ipsilatérale** (hilaire droite).
 
 
 ### [[Traumatisme Crânien (TC)]] DONE
@@ -235,7 +198,7 @@
 
 -  En l'absence de traitement, l'embolie pulmonaire peut se compliquer à court terme d'une défaillance ventriculaire droite aiguë menant au **choc cardiogénique** et au **décès**. À long terme, la non-destruction ou la récidive de caillots dans le lit vasculaire pulmonaire peut conduire à une **Hypertension Pulmonaire Thromboembolique Chronique (HTP-TEC)**, qui est une hypertension pulmonaire de mécanisme **pré-capillaire**.
 
-### [[Eczéma de contact]]
+### [[Eczéma de contact]] DONE
 
 - Une désensibilisation **n'a aucune efficacité** dans l'eczéma.
 
@@ -245,7 +208,7 @@
     - **Urticaire** presente **Hypersensibilité de type I**
 
 
-### [[Choc Anaphylactique]]
+### [[Choc Anaphylactique]] DONE
 
 - **Hypersensibilité de type I** (selon la classification de Gell et Coombs). Elle est médiée par des **anticorps de type IgE** fixés à la surface des **mastocytes et des basophiles**
     - **Hypersensibilité de type IV** (Hypersensibilité retardée) concerne **eczéma** 
@@ -256,7 +219,7 @@
     - Les corticoïdes et les antihistaminiques ne sont que des traitements adjuvants de seconde ligne qui agissent trop tardivement
     - **Noradrénaline** est le vasopresseur utilise de premiere intention dans le **choc septique**
 
-### [[États de Choc]]
+### [[États de Choc]] DONE
 
 - ==**Hypotension artérielle** **n'est pas toujours précoce** car les mécanismes compensateurs maintiennent la pression initialement.
     - ==**Signes cliniques précoces :**== Le diagnostic repose sur la présence de **marbrures** (commençant souvent aux genoux), d'une **tachycardie sinusale** et d'une obnubilation (fréquente chez le vieillard).
@@ -424,22 +387,7 @@
 - ==La protéine de Bence Jones (chaînes légères urinaires) est **absente**
 
 
-### [[Cirrhose]] / [[Cirrhose hépatique]]  DONE
-
--  cirrhose **n'est pas** une simple stéatose ou une nécrose parcellaire isolée
-    -  ==Elle est définie par l'association d'une **fibrose diffuse et annulaire**, de **nodules de régénération** hépatocytaires et d'une destruction du parenchyme.  
-
-
-
-- **Tout nodule supérieur à 1 cm apparaissant sur un foie de cirrhose est un Carcinome Hépatocellulaire (CHC)** jusqu'à preuve du contraire
-
-- Toute ascite de nouvelle apparition (première poussée) impose une **ponction d'ascite diagnostique**
-
-- Les transaminases (ASAT/ALAT) ou la créatininémie **ne font pas** partie du score de Child-Pugh.
-
--  ==La **_thrombose de la veine cave inférieure_** n'est pas une complication classique ou directe de la cirrhose.
-
-### ==[[Hypertension Intracrânienne (HTIC)]]
+### [[Hypertension Intracrânienne (HTIC)]]    DONE
 
 - Angio-IRM ou l'angio-scanner cérébral doit impérativement et systématiquement éliminer une **thrombose veineuse cérébrale (phlébite cérébrale)**
 
@@ -479,7 +427,7 @@
     - La lipasémie est un bon marqueur biologique mais pas  pour la gravité.
 
 
-### [[grossesse]]
+### [[grossesse]] DONE
 
 - Les molécules de première intention validées chez la femme enceinte sont l'**Alpha-méthyl-dopa** (action centrale), la **Nicardipine** (inhibiteur calcique) ou le Labétalol 
 
@@ -494,7 +442,12 @@
 
 - Corticothérapie indispensable à ==**32 SA**== pour accélérer la maturation pulmonaire fœtale en prévision d'une naissance prématurée imminente (Bétaméthasone : 2 injections de 12 mg à 24h d'intervalle IM).
 
-### [[Acromégalie]]
+### [[Grossesse extra utérine (GEU)]] DONE
+
+- Les signes indirects évocateurs d'une GEU à l'échographie sont la **vacuité utérine** (absence de vrai sac gestationnel dans la cavité), la présence d'un **pseudo-sac intra-utérin** (collection liquidienne centrale due au saignement décidual) et l'identification d'un **hémopéritoine / épanchement dans le cul-de-sac de Douglas**
+
+- La GEU rompue avec instabilité hémodynamique est une **urgence chirurgicale de bloc opératoire immédiate**
+### [[Acromégalie]] DONE
 
 - ==**exophtalmie bilatérale**  est une complication typique d'une **hyperthyroïdie** par **maladie de Basedow** (orbitopathie basedowienne), **pas** de l'acromégalie
 
@@ -505,7 +458,7 @@
     - L'absence de freinage de la sécrétion de GH (qui reste **> 1 µg/l**) lors d'un test d'**Hyperglycémie Provoquée par Voie Orale (HGPO)**
 
 
-### [[Cirrhose]]
+### [[Cirrhose]] DONE
 
 - ==contrairement aux facteurs II, VII, IX, X, le **Facteur V**  ne dépend pas de la vitamine K et reflète fidèlement la seule fonction hépatocytaire.
 
@@ -515,14 +468,47 @@
 - ==Infection Spontanée du Liquide d'Ascite (ILA) est définie histologiquement par un taux de **Polnucléaires Neutrophiles (PNN) $> 250/\text{mm}^3$ (ou $\text{mL}$)**
 
 
-### [[Grossesse extra utérine (GEU)]]
-
-- Les signes indirects évocateurs d'une GEU à l'échographie sont la **vacuité utérine** (absence de vrai sac gestationnel dans la cavité), la présence d'un **pseudo-sac intra-utérin** (collection liquidienne centrale due au saignement décidual) et l'identification d'un **hémopéritoine / épanchement dans le cul-de-sac de Douglas**
-
-- La GEU rompue avec instabilité hémodynamique est une **urgence chirurgicale de bloc opératoire immédiate**
 
 
-### [[cancer de l'amygdale]] SCLERODERMIE DONE
+### [[Cirrhose]] DONE
+
+- **Bilan étiologique de base d'une cirrhose :** Sérologies VHB et VHC.
+- ==**Deux prescriptions à ne JAMAIS oublier en cas d'hémorragie chez un cirrhotique :**
+    
+    1. **Antibiothérapie prophylactique** (éviter l'infection de l'ascite).
+        
+    2. **Lactulose** (prévenir l'encéphalopathie hépatique induite par l'hyperammoniémie d'origine digestive).
+- **Triade de l'Hémorragie sur HTP :** Stabilisation/Transfusion + Traitement vasoactif (Sandostatine/Terlipressine) + Traitement endoscopique (Ligature des VO).
+- Chez un cirrhotique, une hémorragie digestive haute est, jusqu'à preuve du contraire, liée à une **rupture de varices œsophagiennes**.
+
+- Tableau clinique combine deux syndromes majeurs :
+    1. Un **syndrome d'[[insuffisance hépato cellulaire]]** : angiomes stellaires, érythrose palmaire, TP abaissé à $58\%$.
+    
+    2. Un **syndrome d'[[hypertension portale (HTP)]]** : splénomégalie, thrombopénie modérée ($110.000/\text{mm}^3$), tronc porte dilaté à $15\text{ mm}$ et collatérales spléno-rénales à l'échographie. L'association d'une HTP, d'une insuffisance hépatocellulaire et d'un **foie dysmorphique** affirme une **[[Cirrhose hépatique]]**
+
+- ==Devant **toute** hémorragie digestive **haute** extériorisée (méléna ou hématémèse), l'examen clé diagnostique et thérapeutique à réaliser en première intention (dans les 12 à 24 heures après stabilisation hémodynamique) est la **Fibroscopie œso-gastro-duodénale (FOGD)**
+
+### [[Cancer bronchique]]
+- **Hémoptysie + Grand tabagisme + Opacité pulmonaire =** Éliminer en priorité un cancer bronchique primitif.
+
+- Face à une **opacité** pulmonaire intra-parenchymateuse arrondie, dense, de 5 cm chez un homme de 59 ans grand fumeur (33 PA) :
+    - Le **Cancer bronchique primitif** est le premier diagnostic éliminer en raison du terrain tabagique et de l'hémoptysie.
+    - Le **Kyste hydatique pulmonaire** (très endémique en Algérie) donne typiquement cette image d'opacité arrondie, homogène, « en boulet de canon », à limites nettes et régulières.
+    
+- **Histologie du Carcinome Épidermoïde :** Ponts d'union intercellulaires + Kératinisation (globes cornés).
+
+- ==Les deux examens fondamentaux et incontournables devant une suspicion de néoplasie ou de masse pulmonaire symptomatique sont :
+
+    1. **Le scanner (TDM) thoracique injecté :** Pour caractériser la masse (densité, rehaussement, envahissement) et chercher des adénopathies médiastinales.
+    
+    2. **La fibroscopie bronchique :** Indispensable devant une hémoptysie pour localiser le saignement et surtout réaliser des **biopsies bronchiques** ou des aspirations à visée histologique.
+
+- ==**Sites préférentiels des métastases du CNAPC :** Cerveau, Foie, Surrénales, Os.
+- ==**Stade localisé (T2N1M0) =** Indication chirurgicale première d'exérèse carcinologique
+    - **T2 :** La masse mesure plus de 3 cm mais moins de 5 ou 7 cm selon les versions .
+    - **N1 :** Présence d'une **adénopathie hilaire ipsilatérale** (hilaire droite).
+
+### [[cancer de l'amygdale]] DONE
 
 -  l'apparition du **trismus** signe l'infiltration tumorale profonde de l'espace ptérygo-mandibulaire ou des muscles masticateurs (ptérygoïdiens). Toute invasion de ces structures classe d'emblée la tumeur en **T4a** (maladie localement avancée).
 
@@ -559,7 +545,7 @@
 
 - phéochromoblastes ont pour origine embryonnaire la **crête neurale**.
 
-### [[Déséquilibres Acido-Basiques]]
+### [[Déséquilibres Acido-Basiques]] DONE
 
 -  L'acidose provoque une **sortie** du potassium cellulaire et une **hyperkaliémie
     - Lors de l'**alcalose métabolique** (élévation du pH extracellulaire), l'organisme tente de tamponner le milieu : les ions hydrogène ($H^+$) sortent des cellules vers le secteur plasmatique pour faire baisser le pH. Pour maintenir l'électronégativité cellulaire, les ions **potassium ($K^+$)** font le chemin inverse et **pénètrent massivement à l'intérieur de la cellule**. Ce transfert transcellulaire diminue encore la concentration de potassium dans le sang donc **hypokaliémie 
@@ -578,7 +564,7 @@
 - ==**hypokaliémie**== a ($2,7\text{ mmol/l}$) et **symptomatique** (signes neurologiques/musculaires : hyporéflexie, faiblesse diffuse ; signes électriques : ondes U). De plus, la patiente est sous digoxine, ce qui majore le risque d'arrêt cardiaque par trouble du rythme. ==Une correction par **Chlorure de Potassium ($KCl$) par voie intraveineuse lente** est requise d'urgence
     - La ==perfusion de calcium sert à protéger le cœur en cas d'**hyperkaliémie**
 
-### [[Acidocétose Diabétique (ACD)]]
+### [[Acidocétose Diabétique (ACD)]] DONE
 
 
 
@@ -609,7 +595,7 @@ Si la kaliémie initiale est basse (inférieure à 3,3 mmol/L), il faut débuter
     - ==**acidose tubulaire rénale proximale**  est une acidose métabolique à trou anionique **NORMAL**
 
 
-### [[Cancer du rectum]] PRESQUE DONE 
+### [[Cancer du rectum]] DONE 
 
 - ==infection par le virus **HPV** est un facteur de risque pour le **cancer de l'anus** (carcinome épidermoïde), mais n'est pas le facteur principal pour l'adénocarcinome du rectum.
 

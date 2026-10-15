@@ -12,6 +12,8 @@ QCM BIOLOGIE
 [[Biologie_clinique_2021]]
 [[biologie_clinique_2022_fev]]
 [[biologie_clinique_2022_dec]]
+[[Biologie_clinique_2024]]
+
 [[Biologie_Predictif_2011]]
 [[Biologie_Predictif_2013]]
 
@@ -20,6 +22,7 @@ QCM CLINIQUE
 
 [[2023]]
 [[Biologie_clinique_2024]]
+
 [[2025]]
 
 
@@ -137,7 +140,7 @@ COURS  sois Cas sois dossier
 [[Infections urinaires]]
 [[diabète gestationnel]]
 [[ÉPILEPSIE]]
-
+[[kyste hydatique]]
 
 **Simulation**
 [[Anki]]
@@ -147,7 +150,7 @@ COURS  sois Cas sois dossier
 
 [[Dossier_endo]]
 
-[[kyste hydatique]]
+
 
 
 

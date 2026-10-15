@@ -130,7 +130,7 @@ D. La dénaturation/Renaturation de l'ADN est une étape de la PCR
 
 **Question 11**
 
-**Parmi les [[Antibiotiques]] suivants, lequel n'agit pas sur Listeria monocytogenes?**  
+**Parmi les [[Antibiotiques]] suivants, lequel n'agit pas sur [[Listeria monocytogenes]]?**  
 A. Ampicilline  
 B. Gentamicine  
 C. Céfotaxime  
@@ -747,7 +747,7 @@ E. Le seuil transfusionnel est un taux de plaquettes 50000 éléments/mm3
         
     - **4 : Vrai.** Il résulte d'une translocation réciproque **t(9;22)(q34;q11)** , créant le gène de fusion BCR-ABL.
         
-    - **1 : Faux.** La bêta-thalassémie est une maladie génétique (anomalie de synthèse de l'hémoglobine), sans chromosome Philadelphie.
+    - **1 : Faux.** La [[Bêta-Thalassémie]] est une maladie génétique (anomalie de synthèse de l'hémoglobine), sans chromosome Philadelphie.
         
     - **2 : Faux.** La LLC a souvent d'autres anomalies (délétion 13q, trisomie 12), mais pas le Ph.
         
@@ -1031,7 +1031,7 @@ E. Ont peu d'interactions médicamenteuses par rapport aux AVK
         
     - **A : Vrai.** Leur délai d'action est rapide (1-3 heures).
         
-    - **B : Vrai.** Ils peuvent être débutés d'emblée, sans chevauchement avec une héparine (sauf在某些 situations comme le traitement initial de la TVP/EP).
+    - **B : Vrai.** Ils peuvent être débutés d'emblée, sans chevauchement avec une héparine (sauf situations comme le traitement initial de la TVP/EP).
         
     - **C : Vrai.** Ils n'ont pas d'interaction alimentaire (contrairement aux AVK avec la vitamine K).
         

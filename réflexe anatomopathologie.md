@@ -201,7 +201,7 @@
 
 #Rhumatologie, #Ophtalmologie (uvéite), #Cardiologie (IAo). Association HLA-B27.	
 
-- Définition: Rhumatisme inflammatoire chronique axial. 
+- Définition: Rhumatisme inflammatoire chronique **axial. 
 - Clinique: Lombalgies inflammatoires, talalgies, uvéite antérieure. 
     - test de Schober pour la mobilité lombaire. 
 - Paraclinique: HLA-B27. 

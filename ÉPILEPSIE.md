@@ -1,7 +1,7 @@
 [[Épilepsie du nourrisson]]
 
 
-L'**épilepsie** (B) n'est pas une contre-indication classique aux **[[bêta-mimétiques]]**
+==L'**épilepsie** (B) n'est pas une contre-indication classique aux **[[bêta-mimétiques]]**
 
 
 - **Epilepsie** = maladie neurologique chronique définie par la survenue d’une crise épileptique associée à la persistance d’un facteur de récidive ou survenue d’au moins **deux crises stéréotypées spontanées à > 24h
@@ -64,9 +64,9 @@ Selon l’étiologie :
     - un tracé **EEG typique** (hypsarythmie). 
 
 ### Traitement
-- Commencer toujours par une **monothérapie.
+- ==Commencer toujours par une **monothérapie.
 - La dose minimal efficace
-- **Ne jamais arrêter brutalement** le traitement antiépileptique : risque d’état de mal dû au sevrage.
+- ==**Ne jamais arrêter brutalement** le traitement antiépileptique : risque d’état de mal dû au sevrage.
 
 **Cas particulier de la grossesse : Des malformations diverses peuvent se voir avec tous les [[Antiépileptiques]]. Risque tératogène particulier avec l’acide valproïque : [[spina bifida]] (rare mais grave)**.
 
@@ -75,7 +75,7 @@ Selon l’étiologie :
 - dégager l’espace, protéger la tête (coussin), desserrer les vêtements, enlever les lunettes, mise en PLS dès que possible, prévenir les secours si crise prolongée 
 - A ne pas faire : déplacer le patient (hors situation indispensable), ne pas entraver ses mouvements, ne rien mettre dans la bouche, ne rien donner à boire 
 - **Bilan biologique : glycémie, ionogramme, bilan rénal, bilan hépatique, alcoolémie**
-- La **seule** indication d’EEG en urgence est la suspicion d’**[[Etat de mal épileptique]] 
+- ==La **seule** indication d’EEG en urgence est la suspicion d’**[[Etat de mal épileptique]] 
 -  Administration d’antiépileptique en urgence : non justifié après une 1 ère crise isolée
 
 [[ITEM-R2C 105 - ÉPILEPSIE.pdf]]

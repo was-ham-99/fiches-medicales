@@ -422,9 +422,23 @@ Dans le cadre d'un QCM médical à choix unique, la greffe de cornée (A) est la
 
 QCM
 
-Les [[dermatophytes]] sont classés selon leur hôte préférentiel :
+### 66. Parmi ces champignons, lequel est strictement anthropophile ? (Cocher la réponse juste)**
+
+- A. Trichophyton rubrum
     
-- **Anthropophiles** : strictement humains. _Epidermophyton floccosum_ en fait partie.
+- B. Microsporum canis
+    
+- C. Trichophyton mentagrophytes interdigitale
+    
+- D. Epidermophyton floccosum
+    
+- E. Trichophyton verrucosum
+    
+- **Réponse Juste : D**
+    
+- **Explication :** Les [[dermatophytes]] sont classés selon leur hôte préférentiel :
+    
+    - **Anthropophiles** : strictement humains. _Epidermophyton floccosum_ en fait partie.
         
     - **Zoophiles** : surtout animaux.
         
@@ -663,7 +677,7 @@ A propos des états de choc : (Cocher la réponse juste)**
     - **E. Faux.** Dans le choc septique, le débit cardiaque est souvent **normal ou augmenté** (phase hyperkinétique). Il peut diminuer en phase terminale (choc froid).
 
 QCM
- Au cours de la ==prise en charge== de l'embolie pulmonaire grave : (Cocher la réponse juste)**
+ Au cours de la ==**prise en charge**== de l'embolie pulmonaire grave : (Cocher la réponse juste)**
 
 - A. La fibrinolyse est formellement indiquée dans tous les cas
     
@@ -691,6 +705,22 @@ QCM
 
 QCM
 
+**Question 67: Parmi les propositions suivantes concernant la rénine, quelle association regroupe l'ensemble des propositions exactes?**
+
+- **Réponse officielle: B**
+    
+- **1. Elle est vasoconstrictrice.** (VRAI). La rénine elle-même n'est pas vasoconstrictrice, c'est l'angiotensine II qui l'est. Mais on dit parfois que la rénine, via la cascade, a un effet vasoconstricteur. Cependant, strictement, la rénine est une enzyme, pas un vasoconstricteur. Dans les QCM, on considère souvent que la rénine est vasoconstrictrice indirectement. À voir.
+    
+- **2. Elle est une enzyme protéolytique.** (VRAI). La rénine clive l'angiotensinogène en angiotensine I.
+    
+- **3. Elle clive deux acides aminés de l'angiotensine.** (FAUX). Elle clive l'angiotensinogène (décapeptide) pour donner angiotensine I (décapeptide). En fait, elle clive une liaison peptidique entre la leucine et la valine, libérant un décapeptide. Ce n'est pas "deux acides aminés". C'est une proposition fausse.
+    
+- **4. Elle est sécrétée en plus grande quantité par le rein quand la pression rénale de perfusion diminue.** (VRAI). C'est le mécanisme principal de régulation.
+    
+- **5. Elle est sécrétée en moins grande quantité par le rein sous l'action du système nerveux orthosympathique et des catécholamines.** (FAUX). Au contraire, le [[système sympathique]] stimule la sécrétion de rénine (via les récepteurs bêta-1). Donc c'est faux.
+    
+
+Les propositions exactes sont 1 (discutable), 2 et 4. L'association B est 1+2+4.
 
 QCM
 

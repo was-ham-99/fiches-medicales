@@ -37,9 +37,9 @@
     + Chez les **prématurés** de PN<1500 g: IMF à **bacilles Gram négatif (BGN)** sont plus fréquentes (61 %
 
 **DIAGNOSTIC**
-- Diagnostic de certitude: **Bactériologie** **GOLD STANDARD
+- ==Diagnostic de certitude: **Bactériologie** **GOLD STANDARD
     - Pratiqués **avant 12 h de vie
-    - ECBU **n’est pas** recommandé avant 72h.
+    - ==ECBU **n’est pas** recommandé avant 72h.
 - **Hémoculture**  : Positive dans moins de 50% des cas des septicémies  néonatale
     -  PROCALCITONINE (PCT) : dosage de la procalcitonine (PCT) **n'est pas recommandé**
          - PCT est un précurseur de la calcitonine .
@@ -57,7 +57,7 @@
 - **Correction des troubles hémodynamiques**
 - **Maintenir une hémostase correcte**
 - **Transfusion sanguine
-- Dès l'apparition d'une **fièvre**, d'une **infection** (urinaire, pulmonaire, etc.), de vomissements ou d'une déshydratation, le traitement par iSGLT2 **doit être immédiatement interrompu**
+- ==Dès l'apparition d'une **fièvre**, d'une **infection** (urinaire, pulmonaire, etc.), de vomissements ou d'une déshydratation, le traitement par iSGLT2 **doit être immédiatement interrompu**
 - **Antibiothérapie**
     - **Toute** infection néonatale probable ou certaine impose un traitement antibiotique sans délai
     - D’emblée une antibiothérapie **bactéricide et synergique**, dirigée contre les  3 ou 4 germes les plus fréquents : **Strep B, E. coli, Klebsiella et Listeria. 
@@ -77,7 +77,7 @@
     -  Diagnostic **direct**: mise en évidence du parasite ou de son ADN. Diagnostic **anté-natal** ( liquide amniotique, sang fœtal) ou **néonatal** (sang cordon, LCR, placenta) 
     - Diagnostic **indirect** : mise en évidence des anticorps (sérologie)
     - **BIOLOGIE MOLECULAIRE**: mise en évidence de l’ADN parasitaire
-    - Sérologie tous les mois si seroconversion **spiramycine** et **Amniocentèse
+    - ==**Sérologie tous les mois**== si seroconversion **spiramycine** et **Amniocentèse
 
 
     - Lésions oculaires (50%) : cataracte, glaucome, microphtalmie. Lésions auditives : surdité de perception (30 %) ; Lésions cardiaques : Sténose pulmonaire, persistance du canal artériel …   ; Lésions nerveuses : microcéphalie, retard mental; Lésions dentaires
@@ -98,7 +98,7 @@
         - **Serologie**
             - Si  IgM négatifs : primo-infection exclu
             - Si IgM positifs : s’aider des techniques récentes : IgA et avidité des IgG
-    - PREVENTION: Immunisation de toute femme en **âge de procréer
+    - ==PREVENTION: Immunisation de toute femme en **âge de procréer
     
 
 

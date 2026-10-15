@@ -18,7 +18,7 @@ L'étude des **virus** au concours de résidanat d'Alger est un module transvers
 
 ### 1. Caractéristiques Générales et Structure 🧬
 
-Contrairement aux bactéries, les virus ne possèdent qu'**un seul type d'acide nucléique** (soit ADN, soit ARN).
+Contrairement aux [[bactéries]], les virus ne possèdent qu'**un seul type d'acide nucléique** (soit ADN, soit ARN).
 
 - **Classification :** Elle repose sur la nature du génome, la symétrie de la capside et la présence ou non d'une **enveloppe** (péplos).
 - **Virus Enveloppés :** Ils sont plus fragiles dans le milieu extérieur. C'est le cas du **VIH** et du virus de l'hépatite B.
@@ -56,7 +56,7 @@ L'association virus-cancer est un thème "hypertombable". Les virus reconnus com
 - **VZV :** Agent de la **varicelle** et du **zona**.
 - **EBV :** Responsable de la Mononucléose Infectieuse (MNI).
 
-#### D. [[Orthomyxoviridae]] (Grippe) 🌬️
+#### D. [[Orthomyxoviridae]] ([[Grippe]]) 🌬️
 
 - **Variabilité :** Le virus grippal présente un **glissement antigénique** (mutations mineures annuelles) et une **cassure antigénique** (recombinaison majeure pouvant causer une pandémie).
 - **Vaccin :** Inactivé, il doit être mis à jour chaque année.
